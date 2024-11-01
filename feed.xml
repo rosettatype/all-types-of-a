@@ -11,25 +11,23 @@ layout: null
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for a in site.data.data.letters limit:100 %}
-        {% if a.path %}
+    {% for a in site.data.data.letters limit:10 %}{% if a.path %}
         <item>
             <title>{{ a.typeface | xml_escape }}</title>
             <description>
                 {% capture designers %}
                 {% for d in a.designers %}{% if d == a.designers.last and d != a.designers.first %}, and {% elsif d != a.designers.first %}, {% endif %}{{ d }}{% endfor %}
                 {% endcapture %}
-                A new letter “a” from the typeface {{ a.typeface }} by {{ designers | strip | xml_escape }} has showed up!&lt;br&gt;
+                There is a new letter “a” {% if a.typeface %}from the typeface {{ a.typeface }} {% endif %}by {{ designers | strip | xml_escape }}!&lt;br&gt;
                 {% if a.url %}
-                    See it at: &lt;a href="{{ a.url }}"&gt;{{ a.publisher }}&lt;/a&gt;
+                    See it at: &lt;a href="{{ a.url }}"&gt;{% if a.publisher %}{{ a.publisher }}{% else %}here{% endif %}&lt;/a&gt;
                 {% endif %}
                 </description>
             <pubDate>{{ a.date | date_to_rfc822 }}</pubDate>
             <link>{{ site.url }}</link>
-            <guid isPermaLink="true">{{ site.url }}</guid>
+            <guid isPermaLink="true">{{ site.url }}#{{ a.typeface }}</guid>
             <category>Latin</category>
         </item>
-        {% endif %}
-    {% endfor %}
+    {% endif %}{% endfor %}
   </channel>
 </rss>
