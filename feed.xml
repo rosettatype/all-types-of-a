@@ -16,7 +16,11 @@ layout: null
             <title>{{ a.typeface | xml_escape }}</title>
             <description>
                 {% capture designers %}
+                {% if a.designers.size == 2 %}
+                {{ a.designers[0] }} and {{ a.designers[1] }}
+                {% else %}
                 {% for d in a.designers %}{% if d == a.designers.last and d != a.designers.first %}, and {% elsif d != a.designers.first %}, {% endif %}{{ d }}{% endfor %}
+                {% endif %}
                 {% endcapture %}
                 There is a new letter “a” {% if a.typeface %}from the typeface {{ a.typeface }} {% endif %}by {{ designers | strip | xml_escape }}!&lt;br&gt;
                 {% if a.url %}

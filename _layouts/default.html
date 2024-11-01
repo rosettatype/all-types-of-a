@@ -49,10 +49,16 @@
   <h1>{{ site.title }}</h1>
   <section>
     {% assign letters = site.data.data.letters | sample: site.data.data.letters.size %}
-    {% for a in letters %}{% if a.path %}<div id="{{ a.typeface }}">
+    {% for a in letters %}{% if a.path %}<div id="{{ a.typeface }}">
 
-      {% capture designers %} 
+      {% capture designers %}
+      {% if a.designers.size > 3 %}
+      {{ a.designers[0] }} et al.
+      {% elsif a.designers.size == 2 %}
+      {{ a.designers[0] }} and {{ a.designers[1] }}
+      {% else %}
       {% for d in a.designers %}{% if d == a.designers.last and d != a.designers.first %}, and {% elsif d != a.designers.first %}, {% endif %}{{ d }}{% endfor %}
+      {% endif %}
       {% endcapture %}
 
       {% if a.url %}<a href="{{ a.url }}">{% endif %}
