@@ -32,6 +32,22 @@ h1 {
     font-variation-settings: "ital" 1, "slnt" 0, "wght" 300;
     font-feature-settings: "ss07" on;
     z-index: 1;
+    opacity: 0;
+    animation-name: fade-out;
+    animation-duration: 2s;
+    animation-delay: 2s;
+    animation-iteration-count: 1;
+    animation-timing-function: ease-out;
+}
+
+@keyframes fade-out {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    opacity: 0;
+  }
 }
 section {
     width: 100%;
