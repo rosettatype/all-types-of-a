@@ -1,0 +1,15 @@
+title: All types of “a”
+email: david@rosettatype.com
+description: >
+  A collection of peculiar forms of the Latin lowercase letter “a” (U+0061) subjectively selected  mostly from contemporary digital typefaces, but digitizations of non-digital letterings or typefaces are also acceptable.
+url: https://all-types-of-a.rosettatype.com 
+baseurl: ""
+github_username: rosettatype
+
+# Build settings
+markdown: kramdown
+
+# The default sharing image for sharing any page to social media. If a post has
+# a "sharing_image" meta that will be used instead
+# Use a relative path from the root of the project!
+sharing_image: /assets/sharing_image.png

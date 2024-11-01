@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>
+      {% if page.title %}
+        {{ page.title }}
+      {% else %}
+        {{ site.title }}
+      {% endif %}
+    </title>
+
+    <meta name="description" content="{{ site.description }}">
+
+    <!-- styles -->
+    <link rel="stylesheet" href="/assets/styles.css">
+
+    <!-- OG and Twitter -->
+    <meta property="og:title" content="{{ site.title }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{ site.url }}" />
+    <meta property="og:description" content="{{ site.description }}" />
+    <meta property="og:image" content="{{ site.sharing_image | absolute_url }}" />
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="{{ site.title }}" />
+    <meta name="twitter:description" content="{{ site.description }}" />
+    <meta name="twitter:image" content="{{ site.sharing_image | absolute_url }}" />
+
+    <!-- RSS -->
+    <link rel="alternate" type="application/rss+xml" href="{{ site.url }}/feed.xml" />
+
+    <!-- visitor analytics -->
+    <script defer data-domain="all-types-of-a.rosettatype.com" src="https://plausible.io/js/script.js"></script>
+</head>
+
+<body>
+  <h1>{{ site.title }}</h1>
+  <section>
+    {% assign letters = site.data.data.letters | sample: site.data.data.letters.size %}
+    {% for a in letters %}{% if a.path %}<div>
+
+      {% capture designers %}
+      {% for d in a.designers %}{% if d == a.designers.last and d != a.designers.first %}, and {% elsif d != a.designers.first %}, {% endif %}{{ d }}{% endfor %}
+      {% endcapture %}
+
+      {% if a.url %}<a href="{{ a.url }}">{% endif %}
+      <img src="/assets/letters/{{ a.path }}.svg" alt="{{ a.typeface }}">
+      
+      <p><em>{{ a.typeface }}</em><br>by {{ designers }}</p>
+      {% if a.url %}</a>{% endif %}
+    </div>{% endif %}{% endfor %}
+  </section>
+  <aside>
+    <p>{{ site.description }}</p>
+    <p>If you do not want to miss new additions, there is an <a href="{{ site.url }}/feed.xml">RSS feed</a>. If you wish to contribute, use <a href="https://github.com/rosettatype/all-types-of-a">GitHub</a> or send me an email to david [at] rosettatype.com</p>
+    <p>Started by <a href="https://mrbrezina.com">David</a> of <a href="https://rosettatype.com">Rosetta.</a></p>
+  </aside>
+</body>
+</html>

@@ -1,0 +1,35 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ site.title | xml_escape }}</title>
+    <description>{{ site.description | xml_escape }}</description>
+    <link>{{ site.url }}{{ site.baseurl }}/</link>
+    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
+    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <generator>Jekyll v{{ jekyll.version }}</generator>
+    {% for a in site.data.data.letters limit:100 %}
+        {% if a.path %}
+        <item>
+            <title>{{ a.typeface | xml_escape }}</title>
+            <description>
+                {% capture designers %}
+                {% for d in a.designers %}{% if d == a.designers.last and d != a.designers.first %}, and {% elsif d != a.designers.first %}, {% endif %}{{ d }}{% endfor %}
+                {% endcapture %}
+                A new letter “a” from the typeface {{ a.typeface }} by {{ designers | strip | xml_escape }} has showed up!&lt;br&gt;
+                {% if a.url %}
+                    See it at: &lt;a href="{{ a.url }}"&gt;{{ a.publisher }}&lt;/a&gt;
+                {% endif %}
+                </description>
+            <pubDate>{{ a.date | date_to_rfc822 }}</pubDate>
+            <link>{{ site.url }}</link>
+            <guid isPermaLink="true">{{ site.url }}</guid>
+            <category>Latin</category>
+        </item>
+        {% endif %}
+    {% endfor %}
+  </channel>
+</rss>

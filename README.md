@@ -1,6 +1,6 @@
 # All types of “a”
 
-A collection of peculiar forms of the Latin lowercase letter “a” (U+0061) selected subjectively mostly from contemporary digital typefaces, but digitizations of non-digital letterings or typefaces are also acceptable.
+A collection of peculiar forms of the Latin lowercase letter “a” (U+0061) subjectively selected mostly from contemporary digital typefaces, but digitizations of non-digital letterings or typefaces are also acceptable.
 
 ## Contributing
 
