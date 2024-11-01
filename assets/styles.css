@@ -14,7 +14,7 @@ html, body {
     margin: 0;
     padding: 0;
     background: #000;
-    color: #ffc;
+    color: #fff;
     font-family: "AdapterMonoVF", monospace;
     font-style: normal;
     font-variation-settings: "ital" 0, "slnt" 0, "wght" 600;
@@ -29,10 +29,12 @@ h1 {
     line-height: 30vmin;
     text-align: center;
     color: #00f;
+    font-style: normal;
     font-variation-settings: "ital" 1, "slnt" 0, "wght" 300;
     font-feature-settings: "ss07" on;
     z-index: 1;
     opacity: 0;
+    visibility: hidden;
     animation-name: fade-out;
     animation-duration: 4s;
     animation-iteration-count: 1;
@@ -42,10 +44,12 @@ h1 {
 @keyframes fade-out {
   from {
     opacity: 1;
+    visibility: visible;
   }
 
   to {
     opacity: 0;
+    visibility: hidden;
   }
 }
 section {
@@ -84,6 +88,9 @@ img {
     width: 100%;
     height: 100%;
 }
+img:hover {
+    filter: invert(91%) sepia(89%) saturate(6881%) hue-rotate(247deg) brightness(105%) contrast(147%);
+}
 div p, div a p {
     display: block;
     margin: -3em 0 2em 0;
@@ -93,11 +100,16 @@ div p, div a p {
     text-align: center;
 }
 p em {
+    font-style: normal;
     font-variation-settings: "ital" 1, "slnt" -12, "wght" 600;
     font-feature-settings: "ss07" on;
 }
-div a, div a:hover {
-    color: #ffc;
+div a {
+    color: #fff;
+    text-decoration: none;
+}
+div a:hover {
+    color: #00f;
     text-decoration: none;
 }
 
