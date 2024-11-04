@@ -30,8 +30,7 @@ h1 {
     text-align: center;
     color: #00f;
     font-style: normal;
-    font-variation-settings: "ital" 1, "slnt" 0, "wght" 300;
-    font-feature-settings: "ss07" on;
+    font-variation-settings: "ital" 1, "slnt" -7, "wght" 300;
     z-index: 1;
     opacity: 0;
     visibility: hidden;
