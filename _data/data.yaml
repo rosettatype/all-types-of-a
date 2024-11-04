@@ -324,3 +324,17 @@ letters:
   publisher: Production Type
   designers:
   - Franck Jalleau
+- typeface: DarkMatter
+  date: 1 November 2024
+  path:
+  url: https://altiplano.xyz/en/explore/darkmatter
+  publisher: Altiplano
+  designers:
+  - Altiplano
+- typeface: No Parking
+  date: 1 November 2024
+  path:
+  url: https://a2-type.co.uk/no-parking
+  publisher: A2-TYPE
+  designers:
+  - Henrik Kubel
