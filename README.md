@@ -9,7 +9,7 @@ A collection of peculiar forms of the Latin lowercase letter “a” (U+0061) su
     - scale the letter proportionally to the other letters on the website,
     - convert the letter to outlines,
     - use transparent background,
-    - use white (`#FFFFFF`) for the letter fill,
+    - use black (`#000000`) for the letter fill,
     - save as an SVG to `assets/letters/`.
 3. Add info to `_data/data.yaml`, set `path:` to the SVG file.
 4. Commit and initiate a pull request.

@@ -86,9 +86,10 @@ img {
     padding: 0;
     width: 100%;
     height: 100%;
+    filter: invert(100%);
 }
 img:hover {
-    filter: invert(91%) sepia(89%) saturate(6881%) hue-rotate(247deg) brightness(105%) contrast(147%);
+    filter: invert(9%) sepia(89%) saturate(6881%) hue-rotate(247deg) brightness(105%) contrast(147%);
 }
 div p, div a p {
     display: block;

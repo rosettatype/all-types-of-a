@@ -62,7 +62,7 @@
       {% endcapture %}
 
       {% if a.url %}<a href="{{ a.url }}">{% endif %}
-      <img src="/assets/letters/{{ a.path }}.svg" alt="{{ a.typeface }}">
+      <img src="/assets/{{ a.path }}" alt="{{ a.typeface }}">
       
       <p><em>{{ a.typeface }}</em><br>by {{ designers }}</p>
       {% if a.url %}</a>{% endif %}

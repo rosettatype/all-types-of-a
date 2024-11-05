@@ -1,2 +1,5 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="141.73px" height="141.73px" x="0px" y="0px" viewBox="0 0 141.73 141.73" enable-background="new 0 0 141.73 141.73"><path fill="#fff" d="M105.3 107V83.53c-2.23-.28-4.17-1.81-4.17-4.45V26.39c-35.87 2.77-62.14 15.56-62.14 40.45 0 24.18 30.44 40.17 66.3 40.17M63.73 66.4c0-6.25 5.56-10.83 13.48-13.34v27.25c-7.5-2.78-13.48-7.78-13.48-13.9"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 141.7 141.7">
+  <!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  -->
+  <path d="M105.3,107v-23.5c-2.2-.3-4.2-1.8-4.2-4.4V26.4c-35.9,2.8-62.1,15.6-62.1,40.4s30.4,40.2,66.3,40.2M63.7,66.4c0-6.2,5.6-10.8,13.5-13.3v27.2c-7.5-2.8-13.5-7.8-13.5-13.9"/>
+</svg>
