@@ -286,55 +286,227 @@ letters:
   publisher: Production Type
   designers:
   - Franck Jalleau
+- typeface: Yapon
+  date: 6 November 2024
+  path: letters/Art-Lebedev_Yapon.svg
+  url: https://www.artlebedev.com/type/yapon/
+  publisher: Art. Lebedev
+  designers:
+  - Saveliy Morozov
+  - Artemy Lebedev
+- typeface: Giorgio
+  date: 7 November 2024
+  path: letters/Commercial-Type_Giorgio.svg
+  url: https://commercialtype.com/https://commercialtype.com/catalog/giorgio
+  publisher: Commercial Type
+  designers:
+  - Christian Schwartz
+  - Ilya Ruderman
+  - Panos Haratzopoulos
+  - Vincent Chan
+- typeface: Elephant
+  date: 8 November 2024
+  path: letters/Alias_Elephant.svg
+  url: https://alias.co.uk
+  publisher: Alias
+  designers:
+  - Gareth Hague
+- typeface: Text
+  date: 9 November 2024
+  path: letters/Alias_Text.svg
+  url: https://alias.co.uk
+  publisher: Alias
+  designers:
+  - Gareth Hague
+- typeface: Glyptic
+  date: 10 November 2024
+  path: letters/David-Jonathan-Ross_Glyptic.svg
+  url: https://djr.com/notes/glyptic-djr-lowercase-font-of-the-month
+  publisher: David Jonathan Ross
+  designers:
+  - David Jonathan Ross
+  - Bea Korsh
+- typeface: Cloisterfuch
+  date: 11 November 2024
+  path: letters/Herzberg-Design_Cloisterfuch.svg
+  url: https://www.herzbergdesign.com/cloisterfuch
+  publisher: Herzberg Design
+  designers:
+  - Matthijs Herzberg
+- typeface: PicNic
+  date: 12 November 2024
+  path: letters/Velvetyne_PicNic.svg
+  url: https://www.velvetyne.fr/fonts/picnic/
+  publisher: Velvetyne
+  designers:
+  - Mariel Nils
+- typeface: Dilemma
+  date: 13 November 2024
+  path: letters/PSTL_Dilemma.svg
+  url: https://pstypelab.com/dilemma-vf
+  publisher: PSTL
+  designers:
+  - Mark Caneso
 
 # todo
-- typeface: Plinc Elephant
-  date: 1 November 2024
-  path: 
-  url: https://housefonts.com/hi/plinc-elephant
-  publisher: House Industries
-  designers:
-  - Dave West
-  - Allen Mercer
 - typeface: Minérale
   date: 1 November 2024
-  path: 
+  path: #letters/205TF_Minérale.svg
   url: https://www.205.tf/look/minerale/
   publisher: 205TF
   designers:
   - Thomas Huot-Marchand
-- typeface: Blacktur
-  date: 1 November 2024
-  path: 
-  url: https://housefonts.com/hi/blaktur
-  publisher: 205TF
-  designers:
-  - Ken Barber
 - typeface: Megabase
   date: 1 November 2024
-  path:
+  path: #letters/David-Jonathan-Ross_Megabase.svg
   url: https://typeset.djr.com/?ff=megabase
   publisher: David Jonathan Ross
   designers:
   - David Jonathan Ross
 - typeface: Megavolt
   date: 1 November 2024
-  path:
+  path: #letters/David-Jonathan-Ross_Megavolt.svg
   url: https://djr.com/notes/megavolt-font-of-the-month
   publisher: David Jonathan Ross
   designers:
   - David Jonathan Ross
-- typeface: PicNic
+- typeface: Serge
   date: 1 November 2024
-  path: 
-  url: https://www.velvetyne.fr/fonts/picnic/
-  publisher: Velvetyne
+  path: #letters/Occupant-Fonts_Serge.svg
+  url: https://occupantfonts.com/fonts/serge/
+  publisher: Occupant Fonts
   designers:
-  - Mariel Nils
-- typeface: Dilemma
+  - Cyrus Highsmith
+- typeface: Laima
   date: 1 November 2024
-  path: 
-  url: https://pstypelab.com/dilemma-vf
-  publisher: PSTL
+  path: #letters/Type-Together_Laima.svg
+  url: https://www.type-together.com/laima-font
+  publisher: Type Together
   designers:
-  - Mark Caneso
+  - Bogidar Mascareñas
+- typeface: Prisma
+  date: 1 November 2024
+  path: #letters/Lineto_Prisma.svg
+  url: https://lineto.com/typefaces/prisma
+  publisher: Lineto
+  designers:
+  - James Goggin
+  - Laurenz Brunner
+  - Jonathan Hares
+  - Rafael Koch
+  - Mauro Paolozzi
+  - Arve Båtevik
+  - Cornel Windlin
+  - Viktoriya Grabowska
+- typeface: Plot
+  date: 1 November 2024
+  path: #letters/Lineto_Plot.svg
+  url: https://lineto.com/typefaces/plot
+  publisher: Lineto
+  designers:
+  - Cornel Windlin
+  - Pablo Desportes
+  - Luca Pellegrini
+- typeface: Pufff
+  date: 1 November 2024
+  path: #letters/Mota-Italic_Pufff.svg
+  url: https://motaitalic.com/product/pufff/
+  publisher: Mota Italic
+  designers:
+  - Rob Keller
+- typeface: Orly
+  date: 1 November 2024
+  path: #letters/Type-By_Orly.svg
+  url: https://www.typeby.com/fonts/orly
+  publisher: Type by
+  designers:
+  - Pierre Pané-Farré
+- typeface: Greco
+  date: 1 November 2024
+  path: #letters/Type-By_Greco.svg
+  url: https://www.typeby.com/fonts/greco
+  publisher: Type by
+  designers:
+  - Pierre Pané-Farré
+- typeface: Felka
+  date: 1 November 2024
+  path: #letters/Type-By_Felka.svg
+  url: https://www.typeby.com/fonts/felka
+  publisher: Type by
+  designers:
+  - Thomas Thiemich
+- typeface: Gustella Solid
+  date: 1 November 2024
+  path: #letters/Type-By_Gustella-Solid.svg
+  url: https://www.typeby.com/fonts/gustella-solid
+  publisher: Type by
+  designers:
+  - Thomas Thiemich
+- typeface: Gustella Boxed
+  date: 1 November 2024
+  path: #letters/Type-By_Gustella-Boxed.svg
+  url: https://www.typeby.com/fonts/gustella-boxed
+  publisher: Type by
+  designers:
+  - Thomas Thiemich
+- typeface: Puncho
+  date: 1 November 2024
+  path: #letters/Type-By_Puncho.svg
+  url: https://www.typeby.com/fonts/puncho
+  publisher: Type by
+  designers:
+  - Fred Smeijers
+- typeface: Bery Script
+  date: 1 November 2024
+  path: #letters/Type-By_Bery-Script.svg
+  url: https://www.typeby.com/fonts/bery-script
+  publisher: Type by
+  designers:
+  - Fred Smeijers
+- typeface: Fresco Script
+  date: 1 November 2024
+  path: #letters/Type-By_Fresco-Script.svg
+  url: https://www.typeby.com/fonts/fresco-script
+  publisher: Type by
+  designers:
+  - Fred Smeijers
+- typeface: Yrsa
+  date: 1 November 2024
+  path: #letters/Rosetta_Yrsa.svg
+  url: https://fonts.google.com/specimen/Yrsa
+  publisher: Rosetta/Google
+  designers:
+  - Anna Štepanovská
+  - David Březina
+- typeface: Plenaire
+  date: 1 November 2024
+  path: #letters/Teeline-Fonts_Plenaire.svg
+  url: https://teelinefonts.com/typefaces/plenaire
+  publisher: Teeline Fonts
+  designers:
+  - Craig Eliason
+- typeface: Regrets
+  date: 1 November 2024
+  path: #letters/Oh-No_Regrets.svg
+  url: https://ohnotype.co/fonts/regrets
+  publisher: Oh No
+  designers:
+  - James Edmondson
+  - Jamie Otelsberg
+  - Colin Ford
+- typeface: Irregardless
+  date: 1 November 2024
+  path: #letters/Oh-No_Irregardless.svg
+  url: https://ohnotype.co/fonts/irregardless
+  publisher: Oh No
+  designers:
+  - James Edmondson
+- typeface: Casserole
+  date: 1 November 2024
+  path: #letters/Oh-No_Casserole.svg
+  url: https://ohnotype.co/fonts/casserole
+  publisher: Oh No
+  designers:
+  - James Edmondson
+  - Colin Ford
+  - Jamie Otelsberg
