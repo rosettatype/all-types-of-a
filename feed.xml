@@ -11,7 +11,8 @@ layout: null
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for a in site.data.data.letters | sort: "date" %}{% if a.path %}
+    {% assign letters = site.data.data.letters | sort: "date" | reverse %}
+    {% for a in letters limit:20 %}{% if a.path %}
         <item>
             <title>{{ a.typeface | xml_escape }}</title>
             <description>
