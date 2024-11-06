@@ -70,7 +70,7 @@
       {% endcapture %}
 
       {% if a.url %}<a href="{{ a.url }}">{% endif %}
-      <img src="/assets/{{ a.path }}" alt="{{ a.typeface }}">
+      <img src="/assets/{{ a.path }}" alt="Image of an “a” from {{ a.typeface }} typeface by {{ a.designers | join: ', '}}, published by {{ a.publisher }}" title="{{ a.typeface }} by {{ a.designers | join: ', '}}, published by {{ a.publisher }}">
       
       <p><em>{{ a.typeface }}</em><br>by {{ designers }}</p>
       {% if a.url %}</a>{% endif %}
@@ -78,7 +78,7 @@
   </section>
   <aside>
     <p>{{ site.description }}</p>
-    <p>If you do not want to miss new additions, there is an <a href="{{ site.url }}/feed.xml">RSS feed</a>. If you wish to contribute, use <a href="https://github.com/rosettatype/all-types-of-a">GitHub</a> or send me an email to david [at] rosettatype.com</p>
+    <p>Currently presenting the total of {{ letters.size }} letters. If you do not want to miss new additions, there is an <a href="{{ site.url }}/feed.xml">RSS feed</a>. If you wish to contribute, use <a href="https://github.com/rosettatype/all-types-of-a">GitHub</a> or send me an email to david [at] rosettatype.com</p>
     <p>Started by <a href="https://mrbrezina.com">David</a> of <a href="https://rosettatype.com">Rosetta.</a></p>
   </aside>
 </body>
