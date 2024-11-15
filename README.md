@@ -18,5 +18,5 @@ A collection of peculiar forms of the Latin lowercase letter “a” (U+0061) su
 
 1. The “a” can be from a digital font.
 2. It can be a digitization of a non-digital lettering or typeface.
-3. Include only letters that are *quite different* from what is already included. Helvetica and Neue Haas Grotesque are not quite different in this sense. Neither is Times and Baskerville.
+3. Include only letters that are *quite different* from what is already included. Helvetica and Neue Haas Grotesque are not quite different in this sense. Neither is Times and Baskerville. We are looking at a configuration of features rather than a treatment or refinement.
 4. It has to be an “a”, obviously. Encoded and recognizable as such. Do not include uppercase forms, even if encoded as lowercase.
