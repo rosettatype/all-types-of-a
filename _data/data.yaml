@@ -368,6 +368,13 @@ letters:
   publisher: David Jonathan Ross
   designers:
   - David Jonathan Ross
+- typeface: Megabase
+  date: 15 November 2024
+  path: /assets/letters/David-Jonathan-Ross_Megabase.svg
+  url: https://typeset.djr.com/?ff=megabase
+  publisher: David Jonathan Ross
+  designers:
+  - David Jonathan Ross
 
 # todo
 - typeface: Minérale
@@ -377,13 +384,6 @@ letters:
   publisher: 205TF
   designers:
   - Thomas Huot-Marchand
-- typeface: Megabase
-  date: 1 November 2024
-  path: #/assets/letters/David-Jonathan-Ross_Megabase.svg
-  url: https://typeset.djr.com/?ff=megabase
-  publisher: David Jonathan Ross
-  designers:
-  - David Jonathan Ross
 - typeface: Serge
   date: 1 November 2024
   path: #/assets/letters/Occupant-Fonts_Serge.svg
