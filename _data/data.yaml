@@ -354,6 +354,13 @@ letters:
   publisher: 205TF
   designers:
   - Simon Renaud
+- typeface: New Alphabet
+  date: 15 November 2024
+  path: /assets/letters/The-Foundry-Types_New-Alphabet.svg
+  url: https://www.thefoundrytypes.com/fonts/new-alphabet/
+  publisher: The Foundry Types
+  designers:
+  - Wim Crouwel
 
 # todo
 - typeface: Minérale
