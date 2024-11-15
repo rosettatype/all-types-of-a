@@ -55,8 +55,8 @@
 <body>
   <h1>{{ site.title }}</h1>
   <section>
-    {% assign letters = site.data.data.letters | sample: site.data.data.letters.size %}
-    {% for a in letters %}{% if a.path %}<div id="{{ a.typeface }}">
+    {% assign letters = site.data.data.letters | sample: site.data.data.letters.size | where_exp: "a", "a.path" %}
+    {% for a in letters %}<div id="{{ a.typeface }}">
 
       {% capture designers %}
       {% if a.designers.size > 3 %}
@@ -73,7 +73,7 @@
       
       <p><em>{{ a.typeface }}</em><br>by {{ designers }}</p>
       {% if a.url %}</a>{% endif %}
-    </div>{% endif %}{% endfor %}
+    </div>{% endfor %}
   </section>
   <aside>
     <p>{{ site.description }}</p>
