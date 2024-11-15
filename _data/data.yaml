@@ -361,6 +361,13 @@ letters:
   publisher: The Foundry Types
   designers:
   - Wim Crouwel
+- typeface: Megavolt
+  date: 15 November 2024
+  path: /assets/letters/David-Jonathan-Ross_Megavolt.svg
+  url: https://djr.com/notes/megavolt-font-of-the-month
+  publisher: David Jonathan Ross
+  designers:
+  - David Jonathan Ross
 
 # todo
 - typeface: Minérale
@@ -374,13 +381,6 @@ letters:
   date: 1 November 2024
   path: #/assets/letters/David-Jonathan-Ross_Megabase.svg
   url: https://typeset.djr.com/?ff=megabase
-  publisher: David Jonathan Ross
-  designers:
-  - David Jonathan Ross
-- typeface: Megavolt
-  date: 1 November 2024
-  path: #/assets/letters/David-Jonathan-Ross_Megavolt.svg
-  url: https://djr.com/notes/megavolt-font-of-the-month
   publisher: David Jonathan Ross
   designers:
   - David Jonathan Ross
