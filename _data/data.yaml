@@ -1,7 +1,7 @@
 letters:
 - typeface: Adapter Mono PE
   date: 1 November 2024
-  path: letters/Rosetta_Adapter-Mono-PE.svg
+  path: /assets/letters/Rosetta_Adapter-Mono-PE.svg
   url: https://rosettatype.com/AdapterMonoPE
   publisher: Rosetta
   designers:
@@ -11,35 +11,35 @@ letters:
   - Sláva Jevčinová
 - typeface: Anthony
   date: 1 November 2024
-  path: letters/Velvetyne_Anthony.svg
+  path: /assets/letters/Velvetyne_Anthony.svg
   url: https://www.velvetyne.fr/fonts/anthony/
   publisher: Velvetyne
   designers:
   - Sun Young Oh
 - typeface: Basteleur
   date: 1 November 2024
-  path: letters/Velvetyne_Basteleur.svg
+  path: /assets/letters/Velvetyne_Basteleur.svg
   url: https://www.velvetyne.fr/fonts/basteleur/
   publisher: Velvetyne
   designers:
   - Keussel
 - typeface: Beo Sans
   date: 1 November 2024
-  path: letters/LettError_Beo-Sans.svg
+  path: /assets/letters/LettError_Beo-Sans.svg
   url: https://letterror.com/fonts/randomfonts.html
   publisher: LettError
   designers:
   - Just van Rossum
 - typeface: Burghi
   date: 1 November 2024
-  path: letters/CAST_Burghi.svg
+  path: /assets/letters/CAST_Burghi.svg
   url: https://www.c-a-s-t.com/studies/burghi/
   publisher: C.A.S.T.
   designers:
   - Fabrizio Falcone
 - typeface: Camera
   date: 1 November 2024
-  path: letters/Dinamo_Camera.svg
+  path: /assets/letters/Dinamo_Camera.svg
   url: https://abcdinamo.com/typefaces/camera
   publisher: Dinamo
   designers:
@@ -47,42 +47,42 @@ letters:
   - Fabian Harb
 - typeface: Carolinéale
   date: 1 November 2024
-  path: letters/Pampa-Type_Carolinéale.svg
+  path: /assets/letters/Pampa-Type_Carolinéale.svg
   url: https://pampatype.com/typefaces/carolineale
   publisher: Pampa Type
   designers:
   - Francis Ramel
 - typeface: Choc
   date: 1 November 2024
-  path: letters/Roger-Excoffon_Choc.svg
+  path: /assets/letters/Roger-Excoffon_Choc.svg
   url: https://www.myfonts.com/collections/choc-font-mecanorma-collection
   publisher: Mecanorama
   designers:
   - Roger Excoffon
 - typeface: Dracula Inline
   date: 1 November 2024
-  path: letters/Storm-Type_Dracula-Inline.svg
+  path: /assets/letters/Storm-Type_Dracula-Inline.svg
   url: https://www.stormtype.com/families/dracula
   publisher: Storm Type
   designers:
   - František Štorm
 - typeface: Feneon
   date: 1 November 2024
-  path: letters/Teeline-Fonts_Feneon.svg
+  path: /assets/letters/Teeline-Fonts_Feneon.svg
   url: https://teelinefonts.com/typefaces/feneon
   publisher: Teeline Fonts
   designers:
   - Craig Eliason
 - typeface: Flecha
   date: 1 November 2024
-  path: letters/Rui-Abreu_Flecha.svg
+  path: /assets/letters/Rui-Abreu_Flecha.svg
   url: https://www.r-typography.com/fonts/flecha-l
   publisher: Rui Abreu
   designers:
   - Rui Abreu
 - typeface: Format 1452
   date: 1 November 2024
-  path: letters/Velvetyne_Format-1452.svg
+  path: /assets/letters/Velvetyne_Format-1452.svg
   url: https://www.velvetyne.fr/fonts/format-1452/
   publisher: Velvetyne
   designers:
@@ -90,14 +90,14 @@ letters:
   - Anton Moglia
 - typeface: Gridlite PE
   date: 1 November 2024
-  path: letters/Rosetta_Gridlite-PE.svg
+  path: /assets/letters/Rosetta_Gridlite-PE.svg
   url: https://rosettype.com/GridlitePE
   publisher: Rosetta
   designers:
   - David Březina
 - typeface: Gulax
   date: 1 November 2024
-  path: letters/Velvetyne_Gulax.svg
+  path: /assets/letters/Velvetyne_Gulax.svg
   url: https://www.velvetyne.fr/fonts/gulax/
   publisher: Velvetyne
   designers:
@@ -105,7 +105,7 @@ letters:
   - Anton Moglia
 - typeface: Job Clarendon
   date: 1 November 2024
-  path: letters/David-Jonathan-Ross_Job-Clarendon.svg
+  path: /assets/letters/David-Jonathan-Ross_Job-Clarendon.svg
   url: https://djr.com/job-clarendon
   publisher: David Jonathan Ross
   designers:
@@ -113,70 +113,70 @@ letters:
   - Sophia Tai
 - typeface: Julien
   date: 1 November 2024
-  path: letters/Typotheque_Julien_1.svg
+  path: /assets/letters/Typotheque_Julien_1.svg
   url: https://www.typotheque.com/fonts/julien
   publisher: Typotheque
   designers:
   - Peter Biľak
 - typeface: Julien
   date: 1 November 2024
-  path: letters/Typotheque_Julien_2.svg
+  path: /assets/letters/Typotheque_Julien_2.svg
   url: https://www.typotheque.com/fonts/julien
   publisher: Typotheque
   designers:
   - Peter Biľak
 - typeface: Le Murmure
   date: 1 November 2024
-  path: letters/Velvetyne_Le-Murmure.svg
+  path: /assets/letters/Velvetyne_Le-Murmure.svg
   url: https://www.velvetyne.fr/fonts/le-murmure/
   publisher: Velvetyne
   designers:
   - Jérémy Landes
 - typeface: Macchia
   date: 1 November 2024
-  path: letters/CAST_Macchia.svg
+  path: /assets/letters/CAST_Macchia.svg
   url: https://www.c-a-s-t.com/studies/macchia/?utm_source=Fontstand&utm_medium=Application&utm_campaign=Fontstand+App
   publisher: C.A.S.T.
   designers:
   - Rugero Magri
 - typeface: Megascope
   date: 1 November 2024
-  path: letters/David-Jonathan-Ross_Megascope.svg
+  path: /assets/letters/David-Jonathan-Ross_Megascope.svg
   url: https://typeset.djr.com/?ff=megascope
   publisher: David Jonathan Ross
   designers:
   - David Jonathan Ross
 - typeface: Megazoid
   date: 1 November 2024
-  path: letters/David-Jonathan-Ross_Megazoid.svg
+  path: /assets/letters/David-Jonathan-Ross_Megazoid.svg
   url: https://djr.com/notes/megazoid-font-of-the-month
   publisher: David Jonathan Ross
   designers:
   - David Jonathan Ross
 - typeface: Minuscule
   date: 1 November 2024
-  path: letters/205TF_Minuscule.svg
+  path: /assets/letters/205TF_Minuscule.svg
   url: https://www.205.tf/?search=Minuscule
   publisher: 205TF
   designers:
   - Thomas Huot-Marchand
 - typeface: Mistral
   date: 1 November 2024
-  path: letters/Roger-Excoffon_Mistral.svg
+  path: /assets/letters/Roger-Excoffon_Mistral.svg
   url: https://www.myfonts.com/collections/mistral-font-linotype
   publisher: Linotype
   designers:
   - Roger Excoffon
 - typeface: Monako
   date: 1 November 2024
-  path: letters/Altiplano_Monako.svg
+  path: /assets/letters/Altiplano_Monako.svg
   url: https://altiplano.xyz/en/explore/monaako
   publisher: Altiplano
   designers:
   - Altiplano
 - typeface: Mourier
   date: 1 November 2024
-  path: letters/Velvetyne_Mourier.svg
+  path: /assets/letters/Velvetyne_Mourier.svg
   url: https://www.velvetyne.fr/fonts/mourier/
   publisher: Velvetyne
   designers:
@@ -186,28 +186,28 @@ letters:
   - Alexander Kondratenko
 - typeface: Naatak Latin
   date: 1 November 2024
-  path: letters/Ek-Type_Naatak-Latin.svg
+  path: /assets/letters/Ek-Type_Naatak-Latin.svg
   url: https://ektype.in/upcoming-fonts.html
   publisher: Ek Type
   designers:
   - Kailash Malvia
 - typeface: Nirvana
   date: 1 November 2024
-  path: letters/Altiplano_Nirvana.svg
+  path: /assets/letters/Altiplano_Nirvana.svg
   url: https://altiplano.xyz/en/explore/nirvana
   publisher: Altiplano
   designers:
   - Altiplano
 - typeface: AM Panama
   date: 1 November 2024
-  path: letters/CAST_AM-Panama.svg
+  path: /assets/letters/CAST_AM-Panama.svg
   url: https://www.c-a-s-t.com/modernisti/am-panama/
   publisher: C.A.S.T.
   designers:
   - Giulio Galli
 - typeface: Pareto
   date: 1 November 2024
-  path: letters/Dinamo_Pareto.svg
+  path: /assets/letters/Dinamo_Pareto.svg
   url: https://abcdinamo.com/typefaces/pareto
   publisher: Dinamo
   designers:
@@ -215,14 +215,14 @@ letters:
   - Fabian Harb
 - typeface: Perec Scripte Deco
   date: 1 November 2024
-  path: letters/Pampa-Type_Perec-Scripte-Deco.svg
+  path: /assets/letters/Pampa-Type_Perec-Scripte-Deco.svg
   url: https://pampatype.com/typefaces/perec-scripte
   publisher: Pampa Type
   designers:
   - Alejandro Lo Celso
 - typeface: Pilowlava
   date: 1 November 2024
-  path: letters/Velvetyne_Pilowlava.svg
+  path: /assets/letters/Velvetyne_Pilowlava.svg
   url: https://www.velvetyne.fr/fonts/pilowlava/
   publisher: Velvetyne
   designers:
@@ -231,7 +231,7 @@ letters:
   - Maksym Kobuzan
 - typeface: Plinc Stan Slope
   date: 1 November 2024
-  path: letters/House-Industies_Plinc-Stan-Slope.svg
+  path: /assets/letters/House-Industies_Plinc-Stan-Slope.svg
   url: https://houseindustries.com/
   publisher: House Industries
   designers:
@@ -239,56 +239,56 @@ letters:
   - Susana Caravalho
 - typeface: Sutturah
   date: 1 November 2024
-  path: letters/Rosetta_Sutturah.svg
+  path: /assets/letters/Rosetta_Sutturah.svg
   url: https://rosettatype.com/Sutturah
   publisher: Rosetta
   designers:
   - Octavio Pardo
 - typeface: Teuton
   date: 1 November 2024
-  path: letters/Storm-Type_Teuton.svg
+  path: /assets/letters/Storm-Type_Teuton.svg
   url: https://www.stormtype.com/families/teuton
   publisher: Storm Type
   designers:
   - František Štorm
 - typeface: TINY
   date: 1 November 2024
-  path: letters/Velvetyne_TINY.svg
+  path: /assets/letters/Velvetyne_TINY.svg
   url: https://www.velvetyne.fr/fonts/tiny/
   publisher: Velvetyne
   designers:
   - Jack Halten Fahnestock
 - typeface: Trickster
   date: 1 November 2024
-  path: letters/Velvetyne_Trickster.svg
+  path: /assets/letters/Velvetyne_Trickster.svg
   url: https://www.velvetyne.fr/fonts/trickster/
   publisher: Velvetyne
   designers:
   - Jean-Baptiste Morizot
 - typeface: DarkMatter
   date: 5 November 2024
-  path: letters/Altiplano_Dark-Matter.svg
+  path: /assets/letters/Altiplano_Dark-Matter.svg
   url: https://altiplano.xyz/en/explore/darkmatter
   publisher: Altiplano
   designers:
   - Altiplano
 - typeface: No Parking
   date: 6 November 2024
-  path: letters/A2-TYPE_No-Parking.svg
+  path: /assets/letters/A2-TYPE_No-Parking.svg
   url: https://a2-type.co.uk/no-parking
   publisher: A2-TYPE
   designers:
   - Henrik Kubel
 - typeface: Francesco
   date: 6 November 2024
-  path: letters/Production-Type_Francesco.svg
+  path: /assets/letters/Production-Type_Francesco.svg
   url: https://productiontype.com/font/francesco
   publisher: Production Type
   designers:
   - Franck Jalleau
 - typeface: Yapon
   date: 6 November 2024
-  path: letters/Art-Lebedev_Yapon.svg
+  path: /assets/letters/Art-Lebedev_Yapon.svg
   url: https://www.artlebedev.com/type/yapon/
   publisher: Art. Lebedev
   designers:
@@ -296,7 +296,7 @@ letters:
   - Artemy Lebedev
 - typeface: Giorgio
   date: 7 November 2024
-  path: letters/Commercial-Type_Giorgio.svg
+  path: /assets/letters/Commercial-Type_Giorgio.svg
   url: https://commercialtype.com/https://commercialtype.com/catalog/giorgio
   publisher: Commercial Type
   designers:
@@ -306,21 +306,21 @@ letters:
   - Vincent Chan
 - typeface: Elephant
   date: 8 November 2024
-  path: letters/Alias_Elephant.svg
+  path: /assets/letters/Alias_Elephant.svg
   url: https://alias.co.uk
   publisher: Alias
   designers:
   - Gareth Hague
 - typeface: Text
   date: 9 November 2024
-  path: letters/Alias_Text.svg
+  path: /assets/letters/Alias_Text.svg
   url: https://alias.co.uk
   publisher: Alias
   designers:
   - Gareth Hague
 - typeface: Glyptic
   date: 10 November 2024
-  path: letters/David-Jonathan-Ross_Glyptic.svg
+  path: /assets/letters/David-Jonathan-Ross_Glyptic.svg
   url: https://djr.com/notes/glyptic-djr-lowercase-font-of-the-month
   publisher: David Jonathan Ross
   designers:
@@ -328,28 +328,28 @@ letters:
   - Bea Korsh
 - typeface: Cloisterfuch
   date: 11 November 2024
-  path: letters/Herzberg-Design_Cloisterfuch.svg
+  path: /assets/letters/Herzberg-Design_Cloisterfuch.svg
   url: https://www.herzbergdesign.com/cloisterfuch
   publisher: Herzberg Design
   designers:
   - Matthijs Herzberg
 - typeface: PicNic
   date: 12 November 2024
-  path: letters/Velvetyne_PicNic.svg
+  path: /assets/letters/Velvetyne_PicNic.svg
   url: https://www.velvetyne.fr/fonts/picnic/
   publisher: Velvetyne
   designers:
   - Mariel Nils
 - typeface: Dilemma
   date: 13 November 2024
-  path: letters/PSTL_Dilemma.svg
+  path: /assets/letters/PSTL_Dilemma.svg
   url: https://pstypelab.com/dilemma-vf
   publisher: PSTL
   designers:
   - Mark Caneso
 - typeface: Augure
   date: 14 November 2024
-  path: letters/205TF_Augure.svg
+  path: /assets/letters/205TF_Augure.svg
   url: https://www.205.tf/look/augure/
   publisher: 205TF
   designers:
@@ -358,42 +358,42 @@ letters:
 # todo
 - typeface: Minérale
   date: 1 November 2024
-  path: #letters/205TF_Minérale.svg
+  path: #/assets/letters/205TF_Minérale.svg
   url: https://www.205.tf/look/minerale/
   publisher: 205TF
   designers:
   - Thomas Huot-Marchand
 - typeface: Megabase
   date: 1 November 2024
-  path: #letters/David-Jonathan-Ross_Megabase.svg
+  path: #/assets/letters/David-Jonathan-Ross_Megabase.svg
   url: https://typeset.djr.com/?ff=megabase
   publisher: David Jonathan Ross
   designers:
   - David Jonathan Ross
 - typeface: Megavolt
   date: 1 November 2024
-  path: #letters/David-Jonathan-Ross_Megavolt.svg
+  path: #/assets/letters/David-Jonathan-Ross_Megavolt.svg
   url: https://djr.com/notes/megavolt-font-of-the-month
   publisher: David Jonathan Ross
   designers:
   - David Jonathan Ross
 - typeface: Serge
   date: 1 November 2024
-  path: #letters/Occupant-Fonts_Serge.svg
+  path: #/assets/letters/Occupant-Fonts_Serge.svg
   url: https://occupantfonts.com/fonts/serge/
   publisher: Occupant Fonts
   designers:
   - Cyrus Highsmith
 - typeface: Laima
   date: 1 November 2024
-  path: #letters/Type-Together_Laima.svg
+  path: #/assets/letters/Type-Together_Laima.svg
   url: https://www.type-together.com/laima-font
   publisher: Type Together
   designers:
   - Bogidar Mascareñas
 - typeface: Prisma
   date: 1 November 2024
-  path: #letters/Lineto_Prisma.svg
+  path: #/assets/letters/Lineto_Prisma.svg
   url: https://lineto.com/typefaces/prisma
   publisher: Lineto
   designers:
@@ -407,7 +407,7 @@ letters:
   - Viktoriya Grabowska
 - typeface: Plot
   date: 1 November 2024
-  path: #letters/Lineto_Plot.svg
+  path: #/assets/letters/Lineto_Plot.svg
   url: https://lineto.com/typefaces/plot
   publisher: Lineto
   designers:
@@ -416,70 +416,70 @@ letters:
   - Luca Pellegrini
 - typeface: Pufff
   date: 1 November 2024
-  path: #letters/Mota-Italic_Pufff.svg
+  path: #/assets/letters/Mota-Italic_Pufff.svg
   url: https://motaitalic.com/product/pufff/
   publisher: Mota Italic
   designers:
   - Rob Keller
 - typeface: Orly
   date: 1 November 2024
-  path: #letters/Type-By_Orly.svg
+  path: #/assets/letters/Type-By_Orly.svg
   url: https://www.typeby.com/fonts/orly
   publisher: Type by
   designers:
   - Pierre Pané-Farré
 - typeface: Greco
   date: 1 November 2024
-  path: #letters/Type-By_Greco.svg
+  path: #/assets/letters/Type-By_Greco.svg
   url: https://www.typeby.com/fonts/greco
   publisher: Type by
   designers:
   - Pierre Pané-Farré
 - typeface: Felka
   date: 1 November 2024
-  path: #letters/Type-By_Felka.svg
+  path: #/assets/letters/Type-By_Felka.svg
   url: https://www.typeby.com/fonts/felka
   publisher: Type by
   designers:
   - Thomas Thiemich
 - typeface: Gustella Solid
   date: 1 November 2024
-  path: #letters/Type-By_Gustella-Solid.svg
+  path: #/assets/letters/Type-By_Gustella-Solid.svg
   url: https://www.typeby.com/fonts/gustella-solid
   publisher: Type by
   designers:
   - Thomas Thiemich
 - typeface: Gustella Boxed
   date: 1 November 2024
-  path: #letters/Type-By_Gustella-Boxed.svg
+  path: #/assets/letters/Type-By_Gustella-Boxed.svg
   url: https://www.typeby.com/fonts/gustella-boxed
   publisher: Type by
   designers:
   - Thomas Thiemich
 - typeface: Puncho
   date: 1 November 2024
-  path: #letters/Type-By_Puncho.svg
+  path: #/assets/letters/Type-By_Puncho.svg
   url: https://www.typeby.com/fonts/puncho
   publisher: Type by
   designers:
   - Fred Smeijers
 - typeface: Bery Script
   date: 1 November 2024
-  path: #letters/Type-By_Bery-Script.svg
+  path: #/assets/letters/Type-By_Bery-Script.svg
   url: https://www.typeby.com/fonts/bery-script
   publisher: Type by
   designers:
   - Fred Smeijers
 - typeface: Fresco Script
   date: 1 November 2024
-  path: #letters/Type-By_Fresco-Script.svg
+  path: #/assets/letters/Type-By_Fresco-Script.svg
   url: https://www.typeby.com/fonts/fresco-script
   publisher: Type by
   designers:
   - Fred Smeijers
 - typeface: Yrsa
   date: 1 November 2024
-  path: #letters/Rosetta_Yrsa.svg
+  path: #/assets/letters/Rosetta_Yrsa.svg
   url: https://fonts.google.com/specimen/Yrsa
   publisher: Rosetta/Google
   designers:
@@ -487,14 +487,14 @@ letters:
   - David Březina
 - typeface: Plenaire
   date: 1 November 2024
-  path: #letters/Teeline-Fonts_Plenaire.svg
+  path: #/assets/letters/Teeline-Fonts_Plenaire.svg
   url: https://teelinefonts.com/typefaces/plenaire
   publisher: Teeline Fonts
   designers:
   - Craig Eliason
 - typeface: Regrets
   date: 1 November 2024
-  path: #letters/Oh-No_Regrets.svg
+  path: #/assets/letters/Oh-No_Regrets.svg
   url: https://ohnotype.co/fonts/regrets
   publisher: Oh No
   designers:
@@ -503,14 +503,14 @@ letters:
   - Colin Ford
 - typeface: Irregardless
   date: 1 November 2024
-  path: #letters/Oh-No_Irregardless.svg
+  path: #/assets/letters/Oh-No_Irregardless.svg
   url: https://ohnotype.co/fonts/irregardless
   publisher: Oh No
   designers:
   - James Edmondson
 - typeface: Casserole
   date: 1 November 2024
-  path: #letters/Oh-No_Casserole.svg
+  path: #/assets/letters/Oh-No_Casserole.svg
   url: https://ohnotype.co/fonts/casserole
   publisher: Oh No
   designers:
