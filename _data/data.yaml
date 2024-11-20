@@ -376,6 +376,14 @@ letters:
   publisher: David Jonathan Ross
   designers:
   - David Jonathan Ross
+- typeface: Discórdia
+  date: 20 November 2024
+  path: /assets/letters/Naipe_Discordia.svg
+  url: https://store.naipe.xyz/fonts/discordia
+  publisher: Naipe
+  designers:
+  - Álvaro Franca
+  - Ben Nathan
 
 # todo
 - typeface: Minérale
