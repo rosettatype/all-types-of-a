@@ -12,9 +12,15 @@ F = {
     "lineHeight": 8,
 }
 
-def draw_overview(letters, negative=False, show_captions=False):
+def draw_overview(letters, negative=False, show_captions=False, stretch=False):
     unit = 50
     cols, rows = 6, 6
+    if stretch:
+        c = len(letters)
+        rows = c // cols
+        if c % cols > 0:
+            rows += 1
+        print(c, rows)
     w, h = unit * cols, unit * rows + 10
     
     newDrawing()
@@ -70,6 +76,16 @@ def draw_letter(letter, negative=False, duration=0.2):
         image(".." + letter["path"].replace(".svg", ".pdf"), (0,0))
         im.colorInvert()
     image(im, (0, 0))
+    F["fontSize"] = 25
+    txt = FormattedString(**F, fill=BLUE)
+    txt.append("all-types-of-a.rosettatype.com")
+    text(txt, (w/2, h - 50), align="center")
+    txt = FormattedString(**F, fill=BLUE)
+    if len(letter["designers"]) < 4:
+        txt.append(f"{letter['typeface']} by " + ", ".join(letter["designers"]))
+    else:
+        txt.append(f"{letter['typeface']} by {letter['designers'][0]} et al.")
+    text(txt, (w/2, 60), align="center")
     
 # get letter data
 with open("../_data/data.yaml", "r", encoding="utf-8") as f:
@@ -80,16 +96,18 @@ letters = [l for l in letters if l["path"]]
 letter_paths = random.sample(letters, len(letters))
 
 # overviews
-# draw_overview(letters[:36], negative=True, show_captions=False)
-# saveImage("../assets/sharing_image.png", imageResolution=300)
-# draw_overview(letters[:36], negative=False, show_captions=True)
-# saveImage("all-types-of-a_overview.png", imageResolution=300)
-# saveImage("all-types-of-a_overview.pdf")
+draw_overview(letters[:36], negative=True, show_captions=False)
+saveImage("../assets/sharing_image.png", imageResolution=300)
+draw_overview(letters, negative=False, show_captions=True, stretch=True)
+saveImage("all-types-of-a_overview.png", imageResolution=300)
+saveImage("all-types-of-a_overview.pdf")
+draw_overview(letters, negative=False, show_captions=False, stretch=True)
+saveImage("all-types-of-a_overview-blank.pdf")
 
 # animation
 
-newDrawing()
-for letter in letters:
-    draw_letter(letter, negative=True)
-saveImage("all-types-of-a_animation.mp4")
-endDrawing()
+# newDrawing()
+# for letter in letters:
+#     draw_letter(letter, negative=True)
+# saveImage("all-types-of-a_animation.mp4")
+# endDrawing()
