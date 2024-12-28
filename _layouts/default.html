@@ -68,7 +68,7 @@
       {% endif %}
       {% endcapture %}
 
-      {% if a.url %}<a href="{{ a.url }}">{% endif %}
+      {% if a.url %}<a href="{{ a.url }}" target=„_blank">{% endif %}
       <img src="{{ a.path }}" alt="Image of an “a” from {{ a.typeface }} typeface by {{ a.designers | join: ', '}}, published by {{ a.publisher }}" title="{{ a.typeface }} by {{ a.designers | join: ', '}}, published by {{ a.publisher }}">
       
       <p><em>{{ a.typeface }}</em><br>by {{ designers }}</p>
