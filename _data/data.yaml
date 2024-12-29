@@ -9,7 +9,7 @@ letters:
   - David Březina
   - William Montrose
   - Sláva Jevčinová
-  source: author
+  source: Rosetta
 - typeface: Anthony
   date: 1 November 2024
   path: /assets/letters/Velvetyne_Anthony.svg
@@ -17,7 +17,7 @@ letters:
   publisher: Velvetyne
   designers:
   - Sun Young Oh
-  source: author
+  source: Velvetyne
 - typeface: Basteleur
   date: 1 November 2024
   path: /assets/letters/Velvetyne_Basteleur.svg
@@ -25,7 +25,7 @@ letters:
   publisher: Velvetyne
   designers:
   - Keussel
-  source: author
+  source: Velvetyne
 - typeface: Beo Sans
   date: 1 November 2024
   path: /assets/letters/LettError_Beo-Sans.svg
@@ -48,8 +48,9 @@ letters:
   url: https://abcdinamo.com/typefaces/camera
   publisher: Dinamo
   designers:
-  - Johannes Breyer
-  - Fabian Harb
+    - Johannes Breyer
+    - Fabian Harb
+  source: Fontstand
 - typeface: Carolinéale
   date: 1 November 2024
   path: /assets/letters/Pampa-Type_Carolinéale.svg
@@ -57,13 +58,15 @@ letters:
   publisher: Pampa Type
   designers:
   - Francis Ramel
+  source: Fontstand
 - typeface: Choc
   date: 1 November 2024
   path: /assets/letters/Roger-Excoffon_Choc.svg
-  url: https://www.myfonts.com/collections/choc-font-mecanorma-collection
+  url: https://thetypefounders.com
   publisher: Mecanorama
   designers:
   - Roger Excoffon
+  source: Adobe Fonts
 - typeface: Dracula Inline
   date: 1 November 2024
   path: /assets/letters/Storm-Type_Dracula-Inline.svg
@@ -87,6 +90,7 @@ letters:
   publisher: Rui Abreu
   designers:
   - Rui Abreu
+  source: Fontstand
 - typeface: Format 1452
   date: 1 November 2024
   path: /assets/letters/Velvetyne_Format-1452.svg
@@ -95,7 +99,7 @@ letters:
   designers:
   - Frank Adebiaye
   - Anton Moglia
-  source: author
+  source: Velvetyne
 - typeface: Gridlite PE
   date: 1 November 2024
   path: /assets/letters/Rosetta_Gridlite-PE.svg
@@ -103,7 +107,7 @@ letters:
   publisher: Rosetta
   designers:
   - David Březina
-  source: author
+  source: Rosetta
 - typeface: Gulax
   date: 1 November 2024
   path: /assets/letters/Velvetyne_Gulax.svg
@@ -112,7 +116,7 @@ letters:
   designers:
   - Morgan Gilbert
   - Anton Moglia
-  source: author
+  source: Velvetyne
 - typeface: Job Clarendon
   date: 1 November 2024
   path: /assets/letters/David-Jonathan-Ross_Job-Clarendon.svg
@@ -146,7 +150,7 @@ letters:
   publisher: Velvetyne
   designers:
   - Jérémy Landes
-  source: author
+  source: Velvetyne
 - typeface: Macchia
   date: 1 November 2024
   path: /assets/letters/CAST_Macchia.svg
@@ -178,13 +182,15 @@ letters:
   publisher: 205TF
   designers:
   - Thomas Huot-Marchand
+  source: Author
 - typeface: Mistral
   date: 1 November 2024
   path: /assets/letters/Roger-Excoffon_Mistral.svg
-  url: https://www.myfonts.com/collections/mistral-font-linotype
-  publisher: Linotype
+  url: https://thetypefounders.com
+  publisher: Mecanorama
   designers:
   - Roger Excoffon
+  source: Adobe Fonts
 - typeface: Monako
   date: 1 November 2024
   path: /assets/letters/Altiplano_Monako.svg
@@ -192,6 +198,7 @@ letters:
   publisher: Altiplano
   designers:
   - Altiplano
+  source: PDF
 - typeface: Mourier
   date: 1 November 2024
   path: /assets/letters/Velvetyne_Mourier.svg
@@ -202,7 +209,7 @@ letters:
   - Sébastien Hayez
   - Ariel Martín Pérez
   - Alexander Kondratenko
-  source: author
+  source: Velvetyne
 - typeface: Naatak Latin
   date: 1 November 2024
   path: /assets/letters/Ek-Type_Naatak-Latin.svg
@@ -210,6 +217,7 @@ letters:
   publisher: Ek Type
   designers:
   - Kailash Malvia
+  source: Fontstand
 - typeface: Nirvana
   date: 1 November 2024
   path: /assets/letters/Altiplano_Nirvana.svg
@@ -217,6 +225,7 @@ letters:
   publisher: Altiplano
   designers:
   - Altiplano
+  source: PDF
 - typeface: AM Panama
   date: 1 November 2024
   path: /assets/letters/CAST_AM-Panama.svg
@@ -231,8 +240,9 @@ letters:
   url: https://abcdinamo.com/typefaces/pareto
   publisher: Dinamo
   designers:
-  - Johannes Breyer
-  - Fabian Harb
+    - Johannes Breyer
+    - Fabian Harb
+  source: Fontstand
 - typeface: Perec Scripte Deco
   date: 1 November 2024
   path: /assets/letters/Pampa-Type_Perec-Scripte-Deco.svg
@@ -240,6 +250,7 @@ letters:
   publisher: Pampa Type
   designers:
   - Alejandro Lo Celso
+  source: Fontstand
 - typeface: Pilowlava
   date: 1 November 2024
   path: /assets/letters/Velvetyne_Pilowlava.svg
@@ -249,7 +260,7 @@ letters:
   - Anton Moglia
   - Jérémy Landes
   - Maksym Kobuzan
-  source: author
+  source: Velvetyne
 - typeface: Plinc Stan Slope
   date: 1 November 2024
   path: /assets/letters/House-Industies_Plinc-Stan-Slope.svg
@@ -258,6 +269,7 @@ letters:
   designers:
   - Tony Stan
   - Susana Caravalho
+  source: Fontstand
 - typeface: Sutturah
   date: 1 November 2024
   path: /assets/letters/Rosetta_Sutturah.svg
@@ -265,7 +277,7 @@ letters:
   publisher: Rosetta
   designers:
   - Octavio Pardo
-  source: author
+  source: Rosetta
 - typeface: Teuton
   date: 1 November 2024
   path: /assets/letters/Storm-Type_Teuton.svg
@@ -281,7 +293,7 @@ letters:
   publisher: Velvetyne
   designers:
   - Jack Halten Fahnestock
-  source: author
+  source: Velvetyne
 - typeface: Trickster
   date: 1 November 2024
   path: /assets/letters/Velvetyne_Trickster.svg
@@ -289,7 +301,7 @@ letters:
   publisher: Velvetyne
   designers:
   - Jean-Baptiste Morizot
-  source: author
+  source: Velvetyne
 - typeface: Dark Matter
   date: 5 November 2024
   path: /assets/letters/Altiplano_Dark-Matter.svg
@@ -297,6 +309,7 @@ letters:
   publisher: Altiplano
   designers:
   - Altiplano
+  source: PDF
 - typeface: No Parking
   date: 6 November 2024
   path: /assets/letters/A2-TYPE_No-Parking.svg
@@ -304,6 +317,7 @@ letters:
   publisher: A2-TYPE
   designers:
   - Henrik Kubel
+  source: PDF
 - typeface: Francesco
   date: 6 November 2024
   path: /assets/letters/Production-Type_Francesco.svg
@@ -311,6 +325,7 @@ letters:
   publisher: Production Type
   designers:
   - Franck Jalleau
+  source: PDF
 - typeface: Yapon
   date: 6 November 2024
   path: /assets/letters/Art-Lebedev_Yapon.svg
@@ -319,6 +334,7 @@ letters:
   designers:
   - Saveliy Morozov
   - Artemy Lebedev
+  source: PDF
 - typeface: Giorgio
   date: 7 November 2024
   path: /assets/letters/Commercial-Type_Giorgio.svg
@@ -354,6 +370,7 @@ letters:
   designers:
   - David Jonathan Ross
   - Bea Korsh
+  source: Fontstand
 - typeface: Cloisterfuch
   date: 11 November 2024
   path: /assets/letters/Herzberg-Design_Cloisterfuch.svg
@@ -361,6 +378,7 @@ letters:
   publisher: Herzberg Design
   designers:
   - Matthijs Herzberg
+  source: Adobe Fonts
 - typeface: PicNic
   date: 12 November 2024
   path: /assets/letters/Velvetyne_PicNic.svg
@@ -368,7 +386,7 @@ letters:
   publisher: Velvetyne
   designers:
   - Mariel Nils
-  source: author
+  source: Velvetyne
 - typeface: Dilemma
   date: 13 November 2024
   path: /assets/letters/PSTL_Dilemma.svg
@@ -384,6 +402,7 @@ letters:
   publisher: 205TF
   designers:
   - Simon Renaud
+  source: PDF
 - typeface: New Alphabet
   date: 15 November 2024
   path: /assets/letters/The-Foundry-Types_New-Alphabet.svg
@@ -391,6 +410,7 @@ letters:
   publisher: The Foundry Types
   designers:
   - Wim Crouwel
+  source: PDF
 - typeface: Megavolt
   date: 15 November 2024
   path: /assets/letters/David-Jonathan-Ross_Megavolt.svg
@@ -406,7 +426,7 @@ letters:
   publisher: David Jonathan Ross
   designers:
   - David Jonathan Ross
-  source: author
+  source: Author
 - typeface: Discórdia
   date: 20 November 2024
   path: /assets/letters/Naipe_Discordia.svg
@@ -416,7 +436,7 @@ letters:
   - Álvaro Franca
   - Felipe Casaprima
   - Ben Nathan
-  source: author
+  source: Naipe
 - typeface: Minérale
   date: 28 December 2024
   path: /assets/letters/205TF_Minerale.svg
@@ -424,6 +444,7 @@ letters:
   publisher: 205TF
   designers:
   - Thomas Huot-Marchand
+  source: PDF
 - typeface: Serge
   date: 28 December 2024
   path: /assets/letters/Occupant-Fonts_Serge.svg
@@ -431,6 +452,7 @@ letters:
   publisher: Occupant Fonts
   designers:
   - Cyrus Highsmith
+  source: Occupant Fonts
 - typeface: Laima
   date: 28 December 2024
   path: /assets/letters/TypeTogether_Laima.svg
@@ -453,6 +475,7 @@ letters:
   - Arve Båtevik
   - Cornel Windlin
   - Viktoriya Grabowska
+  source: PDF
 - typeface: Plot
   date: 28 December 2024
   path: /assets/letters/Lineto_Plot.svg
@@ -462,6 +485,7 @@ letters:
   - Cornel Windlin
   - Pablo Desportes
   - Luca Pellegrini
+  source: PDF
 - typeface: Pufff
   date: 28 December 2024
   path: /assets/letters/Mota-Italic_Pufff.svg
@@ -469,7 +493,7 @@ letters:
   publisher: Mota Italic
   designers:
   - Rob Keller
-  source: author
+  source: PDF
 - typeface: Plenaire
   date: 28 December 2024
   path: /assets/letters/Teeline-Fonts_Plenaire.svg
@@ -486,7 +510,7 @@ letters:
   designers:
   - Anna Štepanovská
   - David Březina
-  source: author
+  source: Rosetta
 - typeface: Rosalie
   date: 28 December 2024
   path: /assets/letters/Sharp_Rosalie_1.svg
@@ -494,6 +518,7 @@ letters:
   publisher: Sharp
   designers:
   - My-Lan Thuong
+  source: PDF
 - typeface: Rosalie
   date: 28 December 2024
   path: /assets/letters/Sharp_Rosalie_2.svg
@@ -501,11 +526,12 @@ letters:
   publisher: Sharp
   designers:
   - My-Lan Thuong
+  source: PDF
 - typeface: Regrets
   date: 28 December 2024
   path: /assets/letters/Oh-No_Regrets.svg
   url: https://ohnotype.co/fonts/regrets
-  publisher: Oh No
+  publisher: OH no Type Co.
   designers:
   - James Edmondson
   - Jamie Otelsberg
@@ -515,7 +541,7 @@ letters:
   date: 28 December 2024
   path: /assets/letters/Oh-No_Irregardless.svg
   url: https://ohnotype.co/fonts/irregardless
-  publisher: Oh No
+  publisher: OH no Type Co.
   designers:
   - James Edmondson
   source: Fontstand
@@ -523,7 +549,7 @@ letters:
   date: 28 December 2024
   path: /assets/letters/Oh-No_Casserole.svg
   url: https://ohnotype.co/fonts/casserole
-  publisher: Oh No
+  publisher: OH no Type Co.
   designers:
   - James Edmondson
   - Colin Ford
@@ -598,7 +624,7 @@ letters:
   - Fred Smeijers
 - typeface: Joc
   date: 1 November 2024
-  path: #/assets/letters/Type-Ø-Tones_Joc.svg
+  path: #/assets/letters/Type-O-Tones_Joc.svg
   url: https://type-o-tones.com/fonts/joc
   publisher: Type-Ø-Tones
   designers:
