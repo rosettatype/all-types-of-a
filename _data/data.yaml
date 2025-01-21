@@ -40,8 +40,9 @@ letters:
   url: https://www.c-a-s-t.com/studies/burghi/
   publisher: C.A.S.T.
   designers:
+  - Alex Bossi
   - Fabrizio Falcone
-  source: Fontstand
+  source: Adobe Fonts
 - typeface: Camera
   date: 1 November 2024
   path: /assets/letters/Dinamo_Camera.svg
@@ -58,12 +59,12 @@ letters:
   publisher: Pampa Type
   designers:
   - Francis Ramel
-  source: Fontstand
+  source: Adobe Fonts
 - typeface: Choc
   date: 1 November 2024
   path: /assets/letters/Roger-Excoffon_Choc.svg
   url: https://thetypefounders.com
-  publisher: Mecanorama
+  publisher: Mecanorama Collection
   designers:
   - Roger Excoffon
   source: Adobe Fonts
@@ -75,14 +76,14 @@ letters:
   designers:
   - František Štorm
   source: Fontstand
-- typeface: Feneon
+- typeface: Feneon Dense
   date: 1 November 2024
-  path: /assets/letters/Teeline-Fonts_Feneon.svg
+  path: /assets/letters/Teeline-Fonts_Feneon-Dense.svg
   url: https://teelinefonts.com/typefaces/feneon
   publisher: Teeline Fonts
   designers:
   - Craig Eliason
-  source: Fontstand
+  source: Adobe Fonts
 - typeface: Flecha
   date: 1 November 2024
   path: /assets/letters/Rui-Abreu_Flecha.svg
@@ -126,7 +127,7 @@ letters:
   - David Jonathan Ross
   - Bethany Heck
   - Sophia Tai
-  source: Fontstand
+  source: Adobe Fonts
 - typeface: Julien
   date: 1 November 2024
   path: /assets/letters/Typotheque_Julien_1.svg
@@ -154,11 +155,11 @@ letters:
 - typeface: Macchia
   date: 1 November 2024
   path: /assets/letters/CAST_Macchia.svg
-  url: https://www.c-a-s-t.com/studies/macchia/?utm_source=Fontstand&utm_medium=Application&utm_campaign=Fontstand+App
+  url: https://www.c-a-s-t.com/studies/macchia/
   publisher: C.A.S.T.
   designers:
   - Rugero Magri
-  source: Fontstand
+  source: Adobe Fonts
 - typeface: Megascope
   date: 1 November 2024
   path: /assets/letters/David-Jonathan-Ross_Megascope.svg
@@ -166,7 +167,7 @@ letters:
   publisher: David Jonathan Ross
   designers:
   - David Jonathan Ross
-  source: Fontstand
+  source: Adobe Fonts
 - typeface: Megazoid
   date: 1 November 2024
   path: /assets/letters/David-Jonathan-Ross_Megazoid.svg
@@ -174,7 +175,7 @@ letters:
   publisher: David Jonathan Ross
   designers:
   - David Jonathan Ross
-  source: Fontstand
+  source: Adobe Fonts
 - typeface: Minuscule
   date: 1 November 2024
   path: /assets/letters/205TF_Minuscule.svg
@@ -182,18 +183,18 @@ letters:
   publisher: 205TF
   designers:
   - Thomas Huot-Marchand
-  source: Author
+  source: Thomas Huot-Marchand
 - typeface: Mistral
   date: 1 November 2024
   path: /assets/letters/Roger-Excoffon_Mistral.svg
   url: https://thetypefounders.com
-  publisher: Mecanorama
+  publisher: Mecanorama Collection
   designers:
   - Roger Excoffon
   source: Adobe Fonts
 - typeface: Monako
   date: 1 November 2024
-  path: /assets/letters/Altiplano_Monako.svg
+  path: #/assets/letters/Altiplano_Monako.svg
   url: https://altiplano.xyz/en/explore/monaako
   publisher: Altiplano
   designers:
@@ -220,7 +221,7 @@ letters:
   source: Fontstand
 - typeface: Nirvana
   date: 1 November 2024
-  path: /assets/letters/Altiplano_Nirvana.svg
+  path: #/assets/letters/Altiplano_Nirvana.svg
   url: https://altiplano.xyz/en/explore/nirvana
   publisher: Altiplano
   designers:
@@ -233,7 +234,7 @@ letters:
   publisher: C.A.S.T.
   designers:
   - Giulio Galli
-  source: Fontstand
+  source: Adobe Fonts
 - typeface: Pareto
   date: 1 November 2024
   path: /assets/letters/Dinamo_Pareto.svg
@@ -250,7 +251,7 @@ letters:
   publisher: Pampa Type
   designers:
   - Alejandro Lo Celso
-  source: Fontstand
+  source: Adobe Fonts
 - typeface: Pilowlava
   date: 1 November 2024
   path: /assets/letters/Velvetyne_Pilowlava.svg
@@ -304,7 +305,7 @@ letters:
   source: Velvetyne
 - typeface: Dark Matter
   date: 5 November 2024
-  path: /assets/letters/Altiplano_Dark-Matter.svg
+  path: #/assets/letters/Altiplano_Dark-Matter.svg
   url: https://altiplano.xyz/en/explore/darkmatter
   publisher: Altiplano
   designers:
@@ -312,7 +313,7 @@ letters:
   source: PDF
 - typeface: No Parking
   date: 6 November 2024
-  path: /assets/letters/A2-TYPE_No-Parking.svg
+  path: #/assets/letters/A2-TYPE_No-Parking.svg
   url: https://a2-type.co.uk/no-parking
   publisher: A2-TYPE
   designers:
@@ -320,7 +321,7 @@ letters:
   source: PDF
 - typeface: Francesco
   date: 6 November 2024
-  path: /assets/letters/Production-Type_Francesco.svg
+  path: #/assets/letters/Production-Type_Francesco.svg
   url: https://productiontype.com/font/francesco
   publisher: Production Type
   designers:
@@ -328,7 +329,7 @@ letters:
   source: PDF
 - typeface: Yapon
   date: 6 November 2024
-  path: /assets/letters/Art-Lebedev_Yapon.svg
+  path: #/assets/letters/Art-Lebedev_Yapon.svg
   url: https://www.artlebedev.com/type/yapon/
   publisher: Art. Lebedev
   designers:
@@ -370,7 +371,7 @@ letters:
   designers:
   - David Jonathan Ross
   - Bea Korsh
-  source: Fontstand
+  source: Adobe Fonts
 - typeface: Cloisterfuch
   date: 11 November 2024
   path: /assets/letters/Herzberg-Design_Cloisterfuch.svg
@@ -397,7 +398,7 @@ letters:
   source: Adobe Fonts
 - typeface: Augure
   date: 14 November 2024
-  path: /assets/letters/205TF_Augure.svg
+  path: #/assets/letters/205TF_Augure.svg
   url: https://www.205.tf/Augure
   publisher: 205TF
   designers:
@@ -410,7 +411,7 @@ letters:
   publisher: The Foundry Types
   designers:
   - Wim Crouwel
-  source: PDF
+  source: Maurice Meilleur
 - typeface: Megavolt
   date: 15 November 2024
   path: /assets/letters/David-Jonathan-Ross_Megavolt.svg
@@ -418,7 +419,7 @@ letters:
   publisher: David Jonathan Ross
   designers:
   - David Jonathan Ross
-  source: Fontstand
+  source: Adobe Fonts
 - typeface: Megabase
   date: 15 November 2024
   path: /assets/letters/David-Jonathan-Ross_Megabase.svg
@@ -426,7 +427,7 @@ letters:
   publisher: David Jonathan Ross
   designers:
   - David Jonathan Ross
-  source: Author
+  source: Adobe Fonts
 - typeface: Discórdia
   date: 20 November 2024
   path: /assets/letters/Naipe_Discordia.svg
@@ -444,7 +445,7 @@ letters:
   publisher: 205TF
   designers:
   - Thomas Huot-Marchand
-  source: PDF
+  source: Thomas Huot-Marchand
 - typeface: Serge
   date: 28 December 2024
   path: /assets/letters/Occupant-Fonts_Serge.svg
@@ -460,10 +461,10 @@ letters:
   publisher: TypeTogether
   designers:
   - Bogidar Mascareñas
-  source: Fontstand
+  source: Adobe Fonts
 - typeface: Prisma
   date: 28 December 2024
-  path: /assets/letters/Lineto_Prisma.svg
+  path: #/assets/letters/Lineto_Prisma.svg
   url: https://lineto.com/typefaces/prisma
   publisher: Lineto
   designers:
@@ -478,7 +479,7 @@ letters:
   source: PDF
 - typeface: Plot
   date: 28 December 2024
-  path: /assets/letters/Lineto_Plot.svg
+  path: #/assets/letters/Lineto_Plot.svg
   url: https://lineto.com/typefaces/plot
   publisher: Lineto
   designers:
@@ -493,7 +494,7 @@ letters:
   publisher: Mota Italic
   designers:
   - Rob Keller
-  source: PDF
+  source: Mota Italic
 - typeface: Plenaire
   date: 28 December 2024
   path: /assets/letters/Teeline-Fonts_Plenaire.svg
@@ -501,7 +502,7 @@ letters:
   publisher: Teeline Fonts
   designers:
   - Craig Eliason
-  source: Fontstand
+  source: Adobe Fonts
 - typeface: Yrsa
   date: 28 December 2024
   path: /assets/letters/Rosetta-Google_Yrsa.svg
@@ -512,21 +513,22 @@ letters:
   - David Březina
   source: Rosetta
 - typeface: Rosalie
-  date: 28 December 2024
-  path: /assets/letters/Sharp_Rosalie_1.svg
+  date: 21 January 2025
+  path: /assets/letters/Sharp_Rosalie_1.svg  # the upright form
+#   path: /assets/letters/Sharp_Rosalie_2.svg  # the italic form
   url: https://www.sharptype.co/typefaces/rosalie
   publisher: Sharp
   designers:
   - My-Lan Thuong
-  source: PDF
+  source: My-Lan Thuong
 - typeface: Rosalie
-  date: 28 December 2024
-  path: /assets/letters/Sharp_Rosalie_2.svg
+  date: 21 January 2025
+  path: /assets/letters/Sharp_Rosalie_2.svg  # the italic form
   url: https://www.sharptype.co/typefaces/rosalie
   publisher: Sharp
   designers:
   - My-Lan Thuong
-  source: PDF
+  source: My-Lan Thuong
 - typeface: Regrets
   date: 28 December 2024
   path: /assets/letters/Oh-No_Regrets.svg
@@ -536,7 +538,7 @@ letters:
   - James Edmondson
   - Jamie Otelsberg
   - Colin Ford
-  source: Fontstand
+  source: Adobe Fonts
 - typeface: Irregardless
   date: 28 December 2024
   path: /assets/letters/Oh-No_Irregardless.svg
@@ -544,7 +546,7 @@ letters:
   publisher: OH no Type Co.
   designers:
   - James Edmondson
-  source: Fontstand
+  source: Adobe Fonts
 - typeface: Casserole
   date: 28 December 2024
   path: /assets/letters/Oh-No_Casserole.svg
@@ -554,7 +556,7 @@ letters:
   - James Edmondson
   - Colin Ford
   - Jamie Otelsberg
-  source: Fontstand
+  source: Adobe Fonts
 - typeface: Klute
   date: 28 December 2024
   path: /assets/letters/Alias_Klute.svg
@@ -563,9 +565,16 @@ letters:
   designers:
   - Gareth Hague
   source: Fontstand
+- typeface: Joc
+  date: 2 January 2025
+  path: /assets/letters/Type-O-Tones_Joc.svg
+  url: https://type-o-tones.com/fonts/joc
+  publisher: Type-Ø-Tones
+  designers:
+  - Sabina Chipară
+  source: Sabina Chipara
 
   
-# todo
 - typeface: Orly
   date: 1 November 2024
   path: #/assets/letters/Type-By_Orly.svg
@@ -573,31 +582,10 @@ letters:
   publisher: Type by
   designers:
   - Pierre Pané-Farré
-- typeface: Greco
-  date: 1 November 2024
-  path: #/assets/letters/Type-By_Greco.svg
-  url: https://www.typeby.com/fonts/greco
-  publisher: Type by
-  designers:
-  - Pierre Pané-Farré
-- typeface: Felka
-  date: 1 November 2024
-  path: #/assets/letters/Type-By_Felka.svg
-  url: https://www.typeby.com/fonts/felka
-  publisher: Type by
-  designers:
-  - Thomas Thiemich
 - typeface: Gustella Solid
   date: 1 November 2024
   path: #/assets/letters/Type-By_Gustella-Solid.svg
   url: https://www.typeby.com/fonts/gustella-solid
-  publisher: Type by
-  designers:
-  - Thomas Thiemich
-- typeface: Gustella Boxed
-  date: 1 November 2024
-  path: #/assets/letters/Type-By_Gustella-Boxed.svg
-  url: https://www.typeby.com/fonts/gustella-boxed
   publisher: Type by
   designers:
   - Thomas Thiemich
@@ -622,10 +610,23 @@ letters:
   publisher: Type by
   designers:
   - Fred Smeijers
-- typeface: Joc
-  date: 1 November 2024
-  path: #/assets/letters/Type-O-Tones_Joc.svg
-  url: https://type-o-tones.com/fonts/joc
-  publisher: Type-Ø-Tones
-  designers:
-  - Sabina Chipară
+
+# Ubuntu
+# Gill Kayo
+# Gill Sans
+# Optima
+# Syntax/Skolar Sans
+# Eras
+# Serapion
+# Nitti Mostro
+# Clip by Setup
+# Beastly by Oh no
+# Salvaje Display
+# Anchor by Process
+# FindReplace by Process
+# Klavika Display (Ultra Black Condensed) by Process
+# Windsor
+# Shatter
+# Cooper Black
+# Countdown
+# more from Mecanorama: https://fonts.adobe.com/foundries/mecanorma-collection
