@@ -312,13 +312,13 @@ letters:
   - Altiplano
   source: PDF
 - typeface: No Parking
-  date: 6 November 2024
-  path: #/assets/letters/A2-TYPE_No-Parking.svg
+  date: 21 January 2025
+  path: /assets/letters/A2-TYPE_No-Parking.svg
   url: https://a2-type.co.uk/no-parking
   publisher: A2-TYPE
   designers:
   - Henrik Kubel
-  source: PDF
+  source: A2-TYPE (Henrik Kubel)
 - typeface: Francesco
   date: 21 January 2025
   path: /assets/letters/Production-Type_Francesco.svg
