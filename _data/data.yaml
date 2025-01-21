@@ -320,13 +320,13 @@ letters:
   - Henrik Kubel
   source: PDF
 - typeface: Francesco
-  date: 6 November 2024
-  path: #/assets/letters/Production-Type_Francesco.svg
+  date: 21 January 2025
+  path: /assets/letters/Production-Type_Francesco.svg
   url: https://productiontype.com/font/francesco
   publisher: Production Type
   designers:
   - Franck Jalleau
-  source: PDF
+  source: Production Type (Jean-Baptiste Levée)
 - typeface: Yapon
   date: 6 November 2024
   path: #/assets/letters/Art-Lebedev_Yapon.svg
