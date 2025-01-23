@@ -503,15 +503,6 @@ letters:
   designers:
   - Craig Eliason
   source: Adobe Fonts
-- typeface: Yrsa
-  date: 28 December 2024
-  path: /assets/letters/Rosetta-Google_Yrsa.svg
-  url: https://fonts.google.com/specimen/Yrsa
-  publisher: Rosetta/Google
-  designers:
-  - Anna Štepanovská
-  - David Březina
-  source: Rosetta
 - typeface: Rosalie
   date: 21 January 2025
   path: /assets/letters/Sharp_Rosalie_1.svg  # the upright form
