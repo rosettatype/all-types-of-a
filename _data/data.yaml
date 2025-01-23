@@ -645,3 +645,39 @@ letters:
   - Rian Hughes
   source: Adobe Fonts
   style: Cadogan Regular
+- typeface: Cooper Black
+  date: 23 January 2024
+  path: /assets/letters/Adobe_Cooper-Black.svg
+  url: https://fonts.adobe.com/fonts/cooper-black
+  publisher: Adobe
+  designers:
+  - Oswald Bruce Cooper
+  source: Adobe Fonts
+  style: Cooper Std Black Italic
+- typeface: Klavika Condensed
+  date: 23 January 2024
+  path: /assets/letters/Process-Type-Foundry_Klavika-Condensed.svg
+  url: https://processtypefoundry.com/fonts/klavika-condensed/
+  publisher: Process Type Foundry
+  designers:
+  - Eric Olson
+  source: Adobe Fonts
+  style: Klavika Basic Condensed Medium
+- typeface: Anchor
+  date: 23 January 2024
+  path: /assets/letters/Process-Type-Foundry_Anchor.svg
+  url: https://processtypefoundry.com/fonts/anchor/
+  publisher: Process Type Foundry
+  designers:
+  - Eric Olson
+  source: Adobe Fonts
+  style: Anchor Black
+- typeface: Duckie
+  date: 23 January 2024
+  path: /assets/letters/Dave-Rowland-Type_Duckie.svg
+  url: https://fonts.adobe.com/fonts/duckie
+  publisher: Dave Rowland Type
+  designers:
+  - Dave Rowland Type
+  source: Adobe Fonts
+  style: Anchor Black
