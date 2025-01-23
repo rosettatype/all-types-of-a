@@ -463,8 +463,8 @@ letters:
   - Bogidar Mascareñas
   source: Adobe Fonts
 - typeface: Prisma
-  date: 28 December 2024
-  path: #/assets/letters/Lineto_Prisma.svg
+  date: 23 January 2025
+  path: /assets/letters/Lineto_Prisma.svg
   url: https://lineto.com/typefaces/prisma
   publisher: Lineto
   designers:
@@ -478,8 +478,8 @@ letters:
   - Viktoriya Grabowska
   source: PDF
 - typeface: Plot
-  date: 28 December 2024
-  path: #/assets/letters/Lineto_Plot.svg
+  date: 23 January 2025
+  path: /assets/letters/Lineto_Plot.svg
   url: https://lineto.com/typefaces/plot
   publisher: Lineto
   designers:
