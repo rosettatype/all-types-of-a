@@ -476,7 +476,7 @@ letters:
   - Arve Båtevik
   - Cornel Windlin
   - Viktoriya Grabowska
-  source: PDF
+  source: Lineto (Weichi He)
 - typeface: Plot
   date: 23 January 2025
   path: /assets/letters/Lineto_Plot.svg
@@ -486,7 +486,7 @@ letters:
   - Cornel Windlin
   - Pablo Desportes
   - Luca Pellegrini
-  source: PDF
+  source: Lineto (Weichi He)
 - typeface: Pufff
   date: 28 December 2024
   path: /assets/letters/Mota-Italic_Pufff.svg
@@ -505,21 +505,22 @@ letters:
   source: Adobe Fonts
 - typeface: Rosalie
   date: 21 January 2025
-  path: /assets/letters/Sharp_Rosalie_1.svg  # the upright form
-#   path: /assets/letters/Sharp_Rosalie_2.svg  # the italic form
+  path: /assets/letters/Sharp_Rosalie_1.svg
   url: https://www.sharptype.co/typefaces/rosalie
   publisher: Sharp
   designers:
   - My-Lan Thuong
-  source: My-Lan Thuong
+  source: Sharp (My-Lan Thuong)
+  style: Rosalie Regular
 - typeface: Rosalie
   date: 21 January 2025
-  path: /assets/letters/Sharp_Rosalie_2.svg  # the italic form
+  path: #/assets/letters/Sharp_Rosalie_2.svg
   url: https://www.sharptype.co/typefaces/rosalie
   publisher: Sharp
   designers:
   - My-Lan Thuong
-  source: My-Lan Thuong
+  source: Sharp (My-Lan Thuong)
+  style: Rosalie Italic
 - typeface: Regrets
   date: 28 December 2024
   path: /assets/letters/Oh-No_Regrets.svg
@@ -564,8 +565,6 @@ letters:
   designers:
   - Sabina Chipară
   source: Sabina Chipara
-
-  
 - typeface: Orly
   date: 1 November 2024
   path: #/assets/letters/Type-By_Orly.svg
@@ -601,23 +600,48 @@ letters:
   publisher: Type by
   designers:
   - Fred Smeijers
-
-# Ubuntu
-# Gill Kayo
-# Gill Sans
-# Optima
-# Syntax/Skolar Sans
-# Eras
-# Serapion
-# Nitti Mostro
-# Clip by Setup
-# Beastly by Oh no
-# Salvaje Display
-# Anchor by Process
-# FindReplace by Process
-# Klavika Display (Ultra Black Condensed) by Process
-# Windsor
-# Shatter
-# Cooper Black
-# Countdown
-# more from Mecanorama: https://fonts.adobe.com/foundries/mecanorma-collection
+- typeface: Beastly
+  date: 23 January 2024
+  path: /assets/letters/Oh-No_Beastly.svg
+  url: https://ohnotype.co/fonts/beastly
+  publisher: OH no Type Co.
+  designers:
+  - James Edmondson
+  source: Adobe Fonts
+  style: Beastly 48pt
+- typeface: Gill Sans
+  date: 23 January 2024
+  path: /assets/letters/Monotype_Gill-Sans.svg
+  url: https://www.monotype.com/
+  publisher: Monotype
+  designers:
+  - Eric Gill
+  source: Adobe Fonts
+  style: Gill Sans SemiBold
+- typeface: Clip
+  date: 23 January 2024
+  path: /assets/letters/Setup-Type_Clip.svg
+  url: https://www.setuptype.com/fonts/clip
+  publisher: Setup Type
+  designers:
+  - Ondrej Jób
+  source: Fontstand
+  style: Clip Regular
+- typeface: Bubblegum Pop
+  date: 23 January 2024
+  path: /assets/letters/Device-Fonts_Bubblegum-Pop.svg
+  url: https://www.devicefonts.co.uk/catalogue/bubblegum-pop
+  publisher: Device Fonts
+  designers:
+  - Rian Hughes
+  source: Adobe Fonts
+  style: Bubblegum Pop Shadow
+- typeface: Cadogan
+  date: 23 January 2024
+  path: /assets/letters/Device-Fonts_Cadogan.svg
+  url: https://www.devicefonts.co.uk/catalogue/cadogan
+  publisher: Device Fonts
+  designers:
+  - Rian Hughes
+  source: Adobe Fonts
+  style: Cadogan Regular
