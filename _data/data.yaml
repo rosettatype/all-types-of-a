@@ -34,6 +34,7 @@ letters:
   designers:
   - Just van Rossum
   source: Fontstand
+  style: LTR Beo Sans Hard R24 Bold
 - typeface: Burghi
   date: 1 November 2024
   path: /assets/letters/CAST_Burghi.svg
@@ -52,6 +53,7 @@ letters:
     - Johannes Breyer
     - Fabian Harb
   source: Fontstand
+  style: ABC Camera Bold Italic
 - typeface: Carolinéale
   date: 1 November 2024
   path: /assets/letters/Pampa-Type_Carolinéale.svg
@@ -76,6 +78,16 @@ letters:
   designers:
   - František Štorm
   source: Fontstand
+  style: Dracula Inline Black
+- typeface: Serapion
+  date: 24 January 2025
+  path: /assets/letters/Storm-Type_Serapion.svg
+  url: https://www.stormtype.com/families/serapion
+  publisher: Storm Type
+  designers:
+  - František Štorm
+  source: Stormtype
+  style: Serapion Bold
 - typeface: Feneon Dense
   date: 1 November 2024
   path: /assets/letters/Teeline-Fonts_Feneon-Dense.svg
@@ -136,6 +148,7 @@ letters:
   designers:
   - Peter Biľak
   source: Fontstand
+  style: Julien Std Bold Mix
 - typeface: Julien
   date: 1 November 2024
   path: /assets/letters/Typotheque_Julien_2.svg
@@ -144,6 +157,7 @@ letters:
   designers:
   - Peter Biľak
   source: Fontstand
+  style: Julien Std Bold Mix
 - typeface: Le Murmure
   date: 1 November 2024
   path: /assets/letters/Velvetyne_Le-Murmure.svg
@@ -244,6 +258,7 @@ letters:
     - Johannes Breyer
     - Fabian Harb
   source: Fontstand
+  style: Pareto Circular
 - typeface: Perec Scripte Deco
   date: 1 November 2024
   path: /assets/letters/Pampa-Type_Perec-Scripte-Deco.svg
@@ -271,6 +286,7 @@ letters:
   - Tony Stan
   - Susana Caravalho
   source: Fontstand
+  style: Plinc Stan Slope Regular
 - typeface: Sutturah
   date: 1 November 2024
   path: /assets/letters/Rosetta_Sutturah.svg
@@ -279,6 +295,16 @@ letters:
   designers:
   - Octavio Pardo
   source: Rosetta
+  style: Sutturah Fat
+- typeface: Butik
+  date: 24 January 2025
+  path: /assets/letters/Rosetta_Butik.svg
+  url: https://rosettatype.com/Butik
+  publisher: Rosetta
+  designers:
+  - Anna Štepanovská
+  source: Rosetta
+  style: Butik Display Extended Black
 - typeface: Teuton
   date: 1 November 2024
   path: /assets/letters/Storm-Type_Teuton.svg
@@ -286,7 +312,8 @@ letters:
   publisher: Storm Type
   designers:
   - František Štorm
-  source: Fontstand
+  source: Stormtype
+  style: Teuton Hell
 - typeface: TINY
   date: 1 November 2024
   path: /assets/letters/Velvetyne_TINY.svg
@@ -355,6 +382,7 @@ letters:
   designers:
   - Gareth Hague
   source: Fontstand
+  style: Elephant Medium
 - typeface: Text
   date: 9 November 2024
   path: /assets/letters/Alias_Text.svg
@@ -363,6 +391,7 @@ letters:
   designers:
   - Gareth Hague
   source: Fontstand
+  style: Text Regular
 - typeface: Glyptic
   date: 10 November 2024
   path: /assets/letters/David-Jonathan-Ross_Glyptic.svg
@@ -557,6 +586,7 @@ letters:
   designers:
   - Gareth Hague
   source: Fontstand
+  style: Klute Black
 - typeface: Joc
   date: 2 January 2025
   path: /assets/letters/Type-O-Tones_Joc.svg
@@ -680,4 +710,58 @@ letters:
   designers:
   - Dave Rowland Type
   source: Adobe Fonts
-  style: Anchor Black
+  style: Duckie Regular
+- typeface: Nitti Mostro
+  date: 24 January 2025
+  path: /assets/letters/Bold-Monday_Nitti-Mostro_1.svg
+  url: https://www.boldmonday.com/typeface/nitti-mostro/
+  publisher: Bold Monday
+  designers:
+  - Pieter van Rosmalen
+  source: Adobe Fonts
+  style: Nitti Mostro Chrome
+- typeface: Nitti Mostro
+  date: 24 January 2025
+  path: /assets/letters/Bold-Monday_Nitti-Mostro_2.svg
+  url: https://www.boldmonday.com/typeface/nitti-mostro/
+  publisher: Bold Monday
+  designers:
+  - Pieter van Rosmalen
+  source: Adobe Fonts
+  style: Nitti Mostro Gradient
+- typeface: Nitti Mostro
+  date: 24 January 2025
+  path: /assets/letters/Bold-Monday_Nitti-Mostro_3.svg
+  url: https://www.boldmonday.com/typeface/nitti-mostro/
+  publisher: Bold Monday
+  designers:
+  - Pieter van Rosmalen
+  source: Adobe Fonts
+  style: Nitti Mostro Shadow
+- typeface: Ubuntu
+  date: 24 January 2025
+  path: /assets/letters/Canonical_Ubuntu.svg
+  url: https://fonts.google.com/specimen/Ubuntu
+  publisher: Canonical
+  designers:
+  - Dalton Maag
+  source: Adobe Fonts
+  style: Ubuntu Bold
+- typeface: Optima
+  date: 24 January 2025
+  path: /assets/letters/Linotype_Optima.svg
+  url: https://www.myfonts.com/collections/optima-font-linotype
+  publisher: Linotype
+  designers:
+  - Hermann Zapf
+  source: Adobe Fonts
+  style: Optima
+
+# Eras
+# Salvaje Display
+# Windsor
+# Shatter
+# Countdown
+
+# more from Mecanorama: https://fonts.adobe.com/foundries/mecanorma-collection
+
