@@ -46,9 +46,9 @@ letters:
   source: Adobe Fonts
 - typeface: Camera
   date: 1 November 2024
-  path: /assets/letters/Dinamo_Camera.svg
+  path: #/assets/letters/Dinamo_Camera.svg
   url: https://abcdinamo.com/typefaces/camera
-  publisher: Dinamo
+  publisher: ABC Dinamo
   designers:
     - Johannes Breyer
     - Fabian Harb
@@ -64,7 +64,7 @@ letters:
   source: Adobe Fonts
 - typeface: Choc
   date: 1 November 2024
-  path: /assets/letters/Roger-Excoffon_Choc.svg
+  path: /assets/letters/Mecanorama-Collection_Choc.svg
   url: https://thetypefounders.com
   publisher: Mecanorama Collection
   designers:
@@ -104,6 +104,7 @@ letters:
   designers:
   - Rui Abreu
   source: Fontstand
+  style: Flecha M Bold
 - typeface: Format 1452
   date: 1 November 2024
   path: /assets/letters/Velvetyne_Format-1452.svg
@@ -200,15 +201,15 @@ letters:
   source: Thomas Huot-Marchand
 - typeface: Mistral
   date: 1 November 2024
-  path: /assets/letters/Roger-Excoffon_Mistral.svg
+  path: /assets/letters/Mecanorama-Collection_Mistral.svg
   url: https://thetypefounders.com
   publisher: Mecanorama Collection
   designers:
   - Roger Excoffon
   source: Adobe Fonts
-- typeface: Monako
+- typeface: Monaako
   date: 1 November 2024
-  path: #/assets/letters/Altiplano_Monako.svg
+  path: #/assets/letters/Altiplano_Monaako.svg
   url: https://altiplano.xyz/en/explore/monaako
   publisher: Altiplano
   designers:
@@ -233,6 +234,7 @@ letters:
   designers:
   - Kailash Malvia
   source: Fontstand
+  style: Naatak Latin Black
 - typeface: Nirvana
   date: 1 November 2024
   path: #/assets/letters/Altiplano_Nirvana.svg
@@ -251,9 +253,9 @@ letters:
   source: Adobe Fonts
 - typeface: Pareto
   date: 1 November 2024
-  path: /assets/letters/Dinamo_Pareto.svg
+  path: # /assets/letters/Dinamo_Pareto.svg
   url: https://abcdinamo.com/typefaces/pareto
-  publisher: Dinamo
+  publisher: ABC Dinamo
   designers:
     - Johannes Breyer
     - Fabian Harb
@@ -756,12 +758,68 @@ letters:
   - Hermann Zapf
   source: Adobe Fonts
   style: Optima
-
-# Eras
-# Salvaje Display
-# Windsor
-# Shatter
-# Countdown
-
-# more from Mecanorama: https://fonts.adobe.com/foundries/mecanorma-collection
-
+- typeface: Afronaut
+  date: 24 January 2025
+  path: /assets/letters/Capitalics_Afronaut.svg
+  url: https://capitalics.wtf/en/font/afronaut
+  publisher: Capitalics
+  designers:
+  - Mateusz Machalski
+  source: Adobe Fonts
+  style: Afronaut Regular
+- typeface: Bacalar
+  date: 24 January 2025
+  path: /assets/letters/Capitalics_Bacalar.svg
+  url: https://capitalics.wtf/en/font/bacalar
+  publisher: Capitalics
+  designers:
+  - Mateusz Machalski
+  source: Adobe Fonts
+  style: Bacalar Ultra Condensed
+- typeface: Yalla
+  date: 24 January 2025
+  path: #/assets/letters/Capitalics_Yalla.svg
+  url: https://capitalics.wtf/en/font/yalla
+  publisher: Capitalics
+  designers:
+  - Mateusz Machalski
+  source: Adobe Fonts
+  style: Yalla
+- typeface: Harpagan
+  date: 24 January 2025
+  path: /assets/letters/Capitalics_Harpagan.svg
+  url: https://capitalics.wtf/en/font/harpagan
+  publisher: Capitalics
+  designers:
+  - Mateusz Machalski
+  source: Adobe Fonts
+  style: Harpagan Bold
+- typeface: Dubbeldik
+  date: 24 January 2025
+  path: /assets/letters/Mecanorama-Collection_Dubbeldik.svg
+  url: https://thetypefounders.com
+  publisher: Mecanorama Collection
+  designers:
+  - Ad Werner
+  source: Adobe Fonts
+  style: Dubbeldik Regular
+- typeface: Rondo
+  date: 24 January 2025
+  path: /assets/letters/Mecanorama-Collection_Rondo.svg
+  url: https://thetypefounders.com
+  publisher: Mecanorama Collection
+  designers:
+  - Dick Dooijes
+  - Stefan Schlesinger
+  source: Adobe Fonts
+  style: Rondo Regular
+- typeface: Lunatique
+  date: 24 January 2025
+  path: /assets/letters/Pintassilgo-Prints_Lunatique.svg
+  url: https://pintassilgoprints.com/Fonts-1
+  publisher: Pintassilgo Prints
+  designers:
+  - Erica Jung
+  - Ricardo Marcin
+  source: Adobe Fonts
+  style: Lunatique Regular
