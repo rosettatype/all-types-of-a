@@ -591,7 +591,7 @@ letters:
   style: Klute Black
 - typeface: Joc
   date: 2 January 2025
-  path: /assets/letters/Type-O-Tones_Joc.svg
+  path: #/assets/letters/Type-O-Tones_Joc.svg
   url: https://type-o-tones.com/fonts/joc
   publisher: Type-Ø-Tones
   designers:
@@ -710,7 +710,7 @@ letters:
   url: https://fonts.adobe.com/fonts/duckie
   publisher: Dave Rowland Type
   designers:
-  - Dave Rowland Type
+  - Dave Rowland
   source: Adobe Fonts
   style: Duckie Regular
 - typeface: Nitti Mostro
