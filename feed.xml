@@ -24,8 +24,9 @@ layout: null
                 {% endif %}
                 {% endcapture %}
                 There is a new letter “a” {% if a.typeface %}from the typeface {{ a.typeface }} {% endif %}by {{ designers | strip | xml_escape }}!&lt;br&gt;
+                &lt;a href="{{ site.url }}#{{ a.typeface }}"&gt;See it on the website&lt;/a&gt;&lt;br&gt;
                 {% if a.url %}
-                    See it at: &lt;a href="{{ a.url }}"&gt;{% if a.publisher %}{{ a.publisher }}{% else %}here{% endif %}&lt;/a&gt;
+                    &lt;a href="{{ a.url }}"&gt;{% if a.publisher %}See it at {{ a.publisher }}{% else %}See it at the publisher{% endif %}&lt;/a&gt;
                 {% endif %}
                 </description>
             <pubDate>{{ a.date | date_to_rfc822 }}</pubDate>
