@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="141.7" height="141.7" viewBox="0 0 141.7 141.7">
-<path fill-rule="evenodd" fill="rgb(0%, 0%, 0%)" fill-opacity="1" d="M 78.902344 91.554688 L 14.78125 91.554688 L 67.894531 63.191406 L 24.03125 63.191406 L 24.03125 45.046875 L 106.914062 45.046875 L 106.914062 73.410156 L 120.917969 73.410156 L 120.917969 91.554688 L 91.234375 91.554688 L 78.902344 74.289062 Z M 57.589844 74.289062 L 78.902344 74.289062 L 78.902344 62.839844 Z M 57.589844 74.289062 "/>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 141.7 141.7">
+  <!-- Generator: Adobe Illustrator 29.2.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 116)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="st0" d="M56.883,75.702h22.782v-12.238l-22.782,12.238ZM79.665,94.153H11.131l56.766-30.313H21.015v-19.393h88.586v30.313h14.968v19.393h-31.725l-13.18-18.451v18.451Z"/>
 </svg>
