@@ -209,11 +209,11 @@ letters:
   source: Adobe Fonts
 - typeface: Monaako
   date: 1 November 2024
-  path: #/assets/letters/Altiplano_Monaako.svg
+  path: /assets/letters/Altiplano_Monaako.svg
   url: https://altiplano.xyz/en/explore/monaako
   publisher: Altiplano
   designers:
-  - Altiplano
+  - Raphaël Verona
   source: PDF
 - typeface: Mourier
   date: 1 November 2024
@@ -237,11 +237,11 @@ letters:
   style: Naatak Latin Black
 - typeface: Nirvana
   date: 1 November 2024
-  path: #/assets/letters/Altiplano_Nirvana.svg
+  path: /assets/letters/Altiplano_Nirvana.svg
   url: https://altiplano.xyz/en/explore/nirvana
   publisher: Altiplano
   designers:
-  - Altiplano
+  - Raphaël Verona
   source: PDF
 - typeface: AM Panama
   date: 1 November 2024
@@ -253,7 +253,7 @@ letters:
   source: Adobe Fonts
 - typeface: Pareto
   date: 1 November 2024
-  path: # /assets/letters/Dinamo_Pareto.svg
+  path: #/assets/letters/Dinamo_Pareto.svg
   url: https://abcdinamo.com/typefaces/pareto
   publisher: ABC Dinamo
   designers:
@@ -332,13 +332,13 @@ letters:
   designers:
   - Jean-Baptiste Morizot
   source: Velvetyne
-- typeface: Dark Matter
+- typeface: DarkMatter
   date: 5 November 2024
-  path: #/assets/letters/Altiplano_Dark-Matter.svg
+  path: /assets/letters/Altiplano_DarkMatter.svg
   url: https://altiplano.xyz/en/explore/darkmatter
   publisher: Altiplano
   designers:
-  - Altiplano
+  - Raphaël Verona
   source: PDF
 - typeface: No Parking
   date: 21 January 2025
