@@ -842,3 +842,12 @@ letters:
   - H·Alix Sanyas
   source: Ariel Martín Pérez
   style: Ouroboros Regular
+- typeface: Le Cygne
+  date: 9 March 2026
+  path: #/assets/letters/Anton-Moglia_Le-Cygne.svg
+  url: https://anton.moglia.fr/en/fonts/le-cygne/
+  publisher: Anton Moglia
+  designers:
+  - Anton Moglia
+  source: Anton Moglia
+  style: Le Cygne Clair
