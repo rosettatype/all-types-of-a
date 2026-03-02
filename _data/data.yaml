@@ -823,3 +823,13 @@ letters:
   - Ricardo Marcin
   source: Adobe Fonts
   style: Lunatique Regular
+- typeface: Kobata
+  date: 2 March 2026
+  path: /assets/letters/Tunera_Kobata.svg
+  url: https://www.tunera.xyz/fonts/kobata/
+  publisher: Tunera
+  designers:
+  - Ariel Martín Pérez
+  source: Ariel Martín Pérez
+  style: Kobata Bold
+
