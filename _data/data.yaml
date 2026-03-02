@@ -541,16 +541,7 @@ letters:
   publisher: Sharp
   designers:
   - My-Lan Thuong
-  source: Sharp (My-Lan Thuong)
-  style: Rosalie Regular
-- typeface: Rosalie
-  date: 21 January 2025
-  path: #/assets/letters/Sharp_Rosalie_2.svg
-  url: https://www.sharptype.co/typefaces/rosalie
-  publisher: Sharp
-  designers:
-  - My-Lan Thuong
-  source: Sharp (My-Lan Thuong)
+  source: My-Lan Thuong
   style: Rosalie Italic
 - typeface: Regrets
   date: 28 December 2024
