@@ -251,16 +251,6 @@ letters:
   designers:
   - Giulio Galli
   source: Adobe Fonts
-- typeface: Pareto
-  date: 1 November 2024
-  path: #/assets/letters/Dinamo_Pareto.svg
-  url: https://abcdinamo.com/typefaces/pareto
-  publisher: ABC Dinamo
-  designers:
-    - Johannes Breyer
-    - Fabian Harb
-  source: Fontstand
-  style: Pareto Circular
 - typeface: Perec Scripte Deco
   date: 1 November 2024
   path: /assets/letters/Pampa-Type_Perec-Scripte-Deco.svg
@@ -835,7 +825,7 @@ letters:
   style: Ouroboros Regular
 - typeface: Le Cygne
   date: 9 March 2026
-  path: #/assets/letters/Anton-Moglia_Le-Cygne.svg
+  path: /assets/letters/Anton-Moglia_Le-Cygne.svg
   url: https://anton.moglia.fr/en/fonts/le-cygne/
   publisher: Anton Moglia
   designers:
