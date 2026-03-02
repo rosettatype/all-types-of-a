@@ -832,4 +832,13 @@ letters:
   - Ariel Martín Pérez
   source: Ariel Martín Pérez
   style: Kobata Bold
-
+- typeface: Ouroboros
+  date: 2 March 2026
+  path: /assets/letters/Velvetyne_Ouroboros.svg
+  url: https://velvetyne.fr/fonts/ouroboros/
+  publisher: Ariel Martín Pérez
+  designers:
+  - Ariel Martín Pérez
+  - H·Alix Sanyas
+  source: Ariel Martín Pérez
+  style: Ouroboros Regular
