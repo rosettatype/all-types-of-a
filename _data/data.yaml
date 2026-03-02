@@ -44,16 +44,6 @@ letters:
   - Alex Bossi
   - Fabrizio Falcone
   source: Adobe Fonts
-- typeface: Camera
-  date: 1 November 2024
-  path: #/assets/letters/Dinamo_Camera.svg
-  url: https://abcdinamo.com/typefaces/camera
-  publisher: ABC Dinamo
-  designers:
-    - Johannes Breyer
-    - Fabian Harb
-  source: Fontstand
-  style: ABC Camera Bold Italic
 - typeface: Carolinéale
   date: 1 November 2024
   path: /assets/letters/Pampa-Type_Carolinéale.svg
@@ -346,15 +336,6 @@ letters:
   designers:
   - Franck Jalleau
   source: Production Type (Jean-Baptiste Levée)
-- typeface: Yapon
-  date: 6 November 2024
-  path: #/assets/letters/Art-Lebedev_Yapon.svg
-  url: https://www.artlebedev.com/type/yapon/
-  publisher: Art. Lebedev
-  designers:
-  - Saveliy Morozov
-  - Artemy Lebedev
-  source: PDF
 - typeface: Giorgio
   date: 7 November 2024
   path: /assets/letters/Commercial-Type_Giorgio.svg
@@ -570,49 +551,6 @@ letters:
   - Gareth Hague
   source: Fontstand
   style: Klute Black
-- typeface: Joc
-  date: 2 January 2025
-  path: #/assets/letters/Type-O-Tones_Joc.svg
-  url: https://type-o-tones.com/fonts/joc
-  publisher: Type-Ø-Tones
-  designers:
-  - Sabina Chipară
-  source: Sabina Chipara
-- typeface: Orly
-  date: 1 November 2024
-  path: #/assets/letters/Type-By_Orly.svg
-  url: https://www.typeby.com/fonts/orly
-  publisher: Type by
-  designers:
-  - Pierre Pané-Farré
-- typeface: Gustella Solid
-  date: 1 November 2024
-  path: #/assets/letters/Type-By_Gustella-Solid.svg
-  url: https://www.typeby.com/fonts/gustella-solid
-  publisher: Type by
-  designers:
-  - Thomas Thiemich
-- typeface: Puncho
-  date: 1 November 2024
-  path: #/assets/letters/Type-By_Puncho.svg
-  url: https://www.typeby.com/fonts/puncho
-  publisher: Type by
-  designers:
-  - Fred Smeijers
-- typeface: Bery Script
-  date: 1 November 2024
-  path: #/assets/letters/Type-By_Bery-Script.svg
-  url: https://www.typeby.com/fonts/bery-script
-  publisher: Type by
-  designers:
-  - Fred Smeijers
-- typeface: Fresco Script
-  date: 1 November 2024
-  path: #/assets/letters/Type-By_Fresco-Script.svg
-  url: https://www.typeby.com/fonts/fresco-script
-  publisher: Type by
-  designers:
-  - Fred Smeijers
 - typeface: Beastly
   date: 23 January 2024
   path: /assets/letters/Oh-No_Beastly.svg
@@ -757,15 +695,6 @@ letters:
   - Mateusz Machalski
   source: Adobe Fonts
   style: Bacalar Ultra Condensed
-- typeface: Yalla
-  date: 24 January 2025
-  path: #/assets/letters/Capitalics_Yalla.svg
-  url: https://capitalics.wtf/en/font/yalla
-  publisher: Capitalics
-  designers:
-  - Mateusz Machalski
-  source: Adobe Fonts
-  style: Yalla
 - typeface: Harpagan
   date: 24 January 2025
   path: /assets/letters/Capitalics_Harpagan.svg
@@ -832,3 +761,80 @@ letters:
   - Anton Moglia
   source: Anton Moglia
   style: Le Cygne Clair
+- typeface: Camera
+  date: 16 March 2026
+  path: /assets/letters/Dinamo_Camera.svg
+  url: #https://abcdinamo.com/typefaces/camera
+  publisher: ABC Dinamo
+  designers:
+    - Johannes Breyer
+    - Fabian Harb
+    - Fabiola Mejía
+    - Sascha Bente
+  source: Fontstand
+  style: ABC Camera Bold Italic
+- typeface: Pareto
+  date: 16 March 2026
+  path: #/assets/letters/Dinamo_Pareto.svg
+  url: https://abcdinamo.com/typefaces/pareto
+  publisher: ABC Dinamo
+  designers:
+    - Johannes Breyer
+    - Fabian Harb
+    - Erkin Karamemet
+  source: Fontstand
+  style: Pareto Circular
+- typeface: Yapon
+  date: 16 March 2026
+  path: #/assets/letters/Art-Lebedev_Yapon.svg
+  url: https://www.artlebedev.com/type/yapon/
+  publisher: Art. Lebedev
+  designers:
+  - Saveliy Morozov
+  - Artemy Lebedev
+  source: PDF
+
+- typeface: Orly
+  date: 1 April 2026
+  path: #/assets/letters/Type-By_Orly.svg
+  url: https://www.typeby.com/fonts/orly
+  publisher: Type by
+  designers:
+  - Pierre Pané-Farré
+- typeface: Gustella Solid
+  date: 1 April 2026
+  path: #/assets/letters/Type-By_Gustella-Solid.svg
+  url: https://www.typeby.com/fonts/gustella-solid
+  publisher: Type by
+  designers:
+  - Thomas Thiemich
+- typeface: Puncho
+  date: 1 April 2026
+  path: #/assets/letters/Type-By_Puncho.svg
+  url: https://www.typeby.com/fonts/puncho
+  publisher: Type by
+  designers:
+  - Fred Smeijers
+- typeface: Bery Script
+  date: 1 April 2026
+  path: #/assets/letters/Type-By_Bery-Script.svg
+  url: https://www.typeby.com/fonts/bery-script
+  publisher: Type by
+  designers:
+  - Fred Smeijers
+- typeface: Fresco Script
+  date: 1 April 2026
+  path: #/assets/letters/Type-By_Fresco-Script.svg
+  url: https://www.typeby.com/fonts/fresco-script
+  publisher: Type by
+  designers:
+  - Fred Smeijers
+- typeface: Yalla
+  date: 1 April 2026
+  path: #/assets/letters/Capitalics_Yalla.svg
+  url: https://capitalics.wtf/en/font/yalla
+  publisher: Capitalics
+  designers:
+  - Mateusz Machalski
+  source: Adobe Fonts
+  style: Yalla
