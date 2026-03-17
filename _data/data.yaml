@@ -784,15 +784,6 @@ letters:
     - Erkin Karamemet
   source: Fontstand
   style: Pareto Circular
-- typeface: Yapon
-  date: 16 March 2026
-  path: /assets/letters/Art-Lebedev_Yapon.svg
-  url: https://www.artlebedev.com/type/yapon/
-  publisher: Art. Lebedev
-  designers:
-  - Saveliy Morozov
-  - Artemy Lebedev
-  source: PDF
 - typeface: Orly
   date: 23 March 2026
   path: #/assets/letters/Type-By_Orly.svg
