@@ -786,35 +786,35 @@ letters:
   style: Pareto Circular
 - typeface: Orly
   date: 23 March 2026
-  path: #/assets/letters/Type-By_Orly.svg
+  path: /assets/letters/Type-By_Orly.svg
   url: https://www.typeby.com/fonts/orly
   publisher: Type by
   designers:
   - Pierre Pané-Farré
 - typeface: Gustella Solid
   date: 23 March 2026
-  path: #/assets/letters/Type-By_Gustella-Solid.svg
+  path: /assets/letters/Type-By_Gustella-Solid.svg
   url: https://www.typeby.com/fonts/gustella-solid
   publisher: Type by
   designers:
   - Thomas Thiemich
 - typeface: Puncho
   date: 23 March 2026
-  path: #/assets/letters/Type-By_Puncho.svg
+  path: /assets/letters/Type-By_Puncho.svg
   url: https://www.typeby.com/fonts/puncho
   publisher: Type by
   designers:
   - Fred Smeijers
 - typeface: Bery Script
   date: 23 March 2026
-  path: #/assets/letters/Type-By_Bery-Script.svg
+  path: /assets/letters/Type-By_Bery-Script.svg
   url: https://www.typeby.com/fonts/bery-script
   publisher: Type by
   designers:
   - Fred Smeijers
 - typeface: Fresco Script
   date: 23 March 2026
-  path: #/assets/letters/Type-By_Fresco-Script.svg
+  path: /assets/letters/Type-By_Fresco-Script.svg
   url: https://www.typeby.com/fonts/fresco-script
   publisher: Type by
   designers:
