@@ -10,6 +10,14 @@ letters:
   - William Montrose
   - Sláva Jevčinová
   source: Rosetta
+- typeface: Andily
+  date: 25 March 2026
+  path: /assets/letters/assets/letters/CubicType_Andily.svg
+  url: https://drj11.itch.io/andily-font
+  publisher: CubicType
+  designers:
+  - David Jones
+  source: CubicType
 - typeface: Anthony
   date: 1 November 2024
   path: /assets/letters/Velvetyne_Anthony.svg
