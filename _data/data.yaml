@@ -497,9 +497,9 @@ letters:
   designers:
   - Rob Keller
   source: Mota Italic
-- typeface: Plenaire
+- typeface: Plenaire Neat
   date: 28 December 2024
-  path: /assets/letters/Teeline-Fonts_Plenaire.svg
+  path: /assets/letters/Teeline-Fonts_Plenaire-Neat.svg
   url: https://teelinefonts.com/typefaces/plenaire
   publisher: Teeline Fonts
   designers:
@@ -819,3 +819,11 @@ letters:
   publisher: Type by
   designers:
   - Fred Smeijers
+- typeface: Ambicase Modern
+  date: 23 April 2026
+  path: /assets/letters/Teeline-Fonts_Ambicase-Modern.svg
+  url: https://teelinefonts.com/typefaces/ambicase
+  publisher: Teeline Fonts
+  designers:
+  - Craig Eliason
+  source: Craig Eliason
